@@ -11,6 +11,6 @@
 | Claude      | Anthropic  | https://claude.ai/chat |
 | Coral       | Cohere     | https://dashboard.cohere.com/playground |
 | Coral       | Cohere     | https://dashboard.cohere.com/playground |
-| Pi,ai       | Inflection AI | https://pi.ai  |
+| Pi.ai       | Inflection AI | https://pi.ai  |
 
 
