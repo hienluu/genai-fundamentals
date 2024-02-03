@@ -23,8 +23,8 @@
 ### Image AI Assistants
 | Name        | URL                           |
 | ----------- | ----------------------------- |
-| DALLE-3            | https://labs.openai.com/                                |
-| ImageFX            | https://aitestkitchen.withgoogle.com/tools/image-fx     |
+| DALLE-2            | https://labs.openai.com/ |
+| ImageFX            | https://aitestkitchen.withgoogle.com/tools/image-fx  |
 | Segment Anything   | https://segment-anything.com/                           |
 | Midjourney         | https://www.midjourney.com  |
 | Clipdrop         | https://clipdrop.co/stable-diffusion-turbo  |
