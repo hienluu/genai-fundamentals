@@ -1,6 +1,9 @@
 # Welcome to the UCSC Extension [Generative AI Fundamentals Course](https://www.ucsc-extension.edu/courses/generative-ai-fundamentals/)
 
-<img src="images/image_fx_a_treasure_chest_at_the_bottom_of_the_ocean_t.png" width="500" height="500" />
+
+<center>
+    <img src="images/image_fx_a_treasure_chest_at_the_bottom_of_the_ocean_t.png" width="500" height="500" />
+</center>
 
 This comprehensive course introduces participants to the world of generative AI and its transformative impact across industries. Suitable for beginners and professionals, this course delves into the practical applications of generative AI, from text and image generation to music composition, and its expanding role in healthcare, finance, and other sectors.
 
