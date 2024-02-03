@@ -1,5 +1,7 @@
 # Welcome to the UCSC Extension [Generative AI Fundamentals Course](https://www.ucsc-extension.edu/courses/generative-ai-fundamentals/)
 
+<img src="images/image_fx_a_treasure_chest_at_the_bottom_of_the_ocean_t.png" width="500" height="500" />
+
 ![Treasure Chext](images/image_fx_a_treasure_chest_at_the_bottom_of_the_ocean_t.png)
 
 
