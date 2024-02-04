@@ -21,7 +21,7 @@
 | Private GPT        | https://privategpt.anote.ai/                            |
 | NotebookLM        | https://notebooklm.google.com/                           |
 
-### AI Assistant Writer (text->tetx)
+### AI Assistant Writer (text->text)
 | Name               | URL                                                     |
 | ------------------ | ------------------------------------------------------- |
 | Copy.ai            | https://app.copy.ai/                                    |
@@ -34,6 +34,7 @@
 | ----------- | ----------------------------- |
 | DALLE-2            | https://labs.openai.com/ |
 | ImageFX            | https://aitestkitchen.withgoogle.com/tools/image-fx  |
+| stability.ai       | https://clipdrop.co/stable-diffusion-turbo  |
 | Night Cafe       | https://creator.nightcafe.studio/|
 | Segment Anything   | https://segment-anything.com/                           |
 | Midjourney         | https://www.midjourney.com  |
@@ -48,7 +49,7 @@
 
 
 
-### Video/Audio AI Assistants (text->video, text->Audio, speech->text)
+### Video/Audio AI Assistants (text->video, text->speech, speech->text)
 | Name        | URL                           |
 | ----------- | ----------------------------- |
 | HeyGen      | https://app.heygen.com/home   |
@@ -59,6 +60,9 @@
 | Descript        | https://www.descript.com/  |
 | Murf.ai        | https://murf.ai/  |
 | AssemblyAI         | https://www.assemblyai.com/   | 
+| VALL-E (Microsoft)         | https://www.microsoft.com/en-us/research/project/vall-e-x/vall-e-x/ | 
+| Video Poet | https://sites.research.google/videopoet/ | 
+
 
 
 ### Music AI Assistants (text->music)
