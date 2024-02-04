@@ -12,32 +12,60 @@
 | Coral       | Cohere     | https://dashboard.cohere.com/playground |
 | Coral       | Cohere     | https://dashboard.cohere.com/playground |
 | Pi.ai       | Inflection AI | https://pi.ai  |
+| Poe       | Poe | https://poe.com/  |
+| Perflexity Labs      | Perflexity.ai | https://labs.perplexity.ai/  |
 
-### AI Writing Assistants
+### Coversational Based AI Tools w/ Your Data
+| Name               | URL                                                     |
+| ------------------ | ------------------------------------------------------- |
+| Private GPT        | https://privategpt.anote.ai/                            |
+| NotebookLM        | https://notebooklm.google.com/                           |
+
+### AI Assistant Writer (text->tetx)
 | Name               | URL                                                     |
 | ------------------ | ------------------------------------------------------- |
 | Copy.ai            | https://app.copy.ai/                                    |
+| Sudowrite          | https://www.sudowrite.com                               |
+| WriteSonic         | https://app.writesonic.com                              |
 
 
-
-### Image AI Assistants
+### Image AI Assistants (text->image)
 | Name        | URL                           |
 | ----------- | ----------------------------- |
 | DALLE-2            | https://labs.openai.com/ |
 | ImageFX            | https://aitestkitchen.withgoogle.com/tools/image-fx  |
+| Night Cafe       | https://creator.nightcafe.studio/|
 | Segment Anything   | https://segment-anything.com/                           |
 | Midjourney         | https://www.midjourney.com  |
 | Clipdrop         | https://clipdrop.co/stable-diffusion-turbo  |
+| RunwayML         | https://app.runwayml.com  |
+| Deep Dream Generator         | https://deepdreamgenerator.com/  |
+| getimg.ai        | https://getimg.ai/ |
+| Stablecog       | https://stablecog.com/ |
+| Starryai          | https://starryai.com/ |
+| mage.space          | https://www.mage.space/ |
 
-### Video AI Assistants
+
+
+
+### Video/Audio AI Assistants (text->video, text->Audio, speech->text)
 | Name        | URL                           |
 | ----------- | ----------------------------- |
 | HeyGen      | https://app.heygen.com/home   |
+| RunwayML         | https://app.runwayml.com  |
+| synthesia         | https://www.synthesia.io/  |
+| StyleGAN-Human         | https://stylegan-human.github.io/  |
+| Rephrase.ai        | https://www.rephrase.ai/  |
+| Descript        | https://www.descript.com/  |
+| Murf.ai        | https://murf.ai/  |
+| AssemblyAI         | https://www.assemblyai.com/   | 
 
-### Music AI Assistants
+
+### Music AI Assistants (text->music)
 | Name               | URL                           |
 | ------------------ | ----------------------------- |
-| AssemblyAI         | https://www.assemblyai.com/   | 
+| Soundraw         | https://soundraw.io   | 
 | MusicFX            | https://aitestkitchen.withgoogle.com/tools/music-fx |
 | MusicLM            | https://google-research.github.io/seanet/musiclm/examples/ |
 | MusicGen           | https://audiocraft.metademolab.com/musicgen.html |
+
