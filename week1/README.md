@@ -15,6 +15,7 @@
 | Poe       | Poe | https://poe.com/  |
 | Perflexity Labs      | Perflexity.ai | https://labs.perplexity.ai/  |
 | TextFX    | Google | https://aitestkitchen.withgoogle.com/tools/text-fx |
+| FlowGPT | https://flowgpt.com/ |
 
 ### Coversational Based AI Tools w/ Your Data
 | Name               | URL                                                     |
