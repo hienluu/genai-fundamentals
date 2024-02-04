@@ -14,6 +14,7 @@
 | Pi.ai       | Inflection AI | https://pi.ai  |
 | Poe       | Poe | https://poe.com/  |
 | Perflexity Labs      | Perflexity.ai | https://labs.perplexity.ai/  |
+| TextFX    | Google | https://aitestkitchen.withgoogle.com/tools/text-fx |
 
 ### Coversational Based AI Tools w/ Your Data
 | Name               | URL                                                     |
@@ -47,8 +48,6 @@
 | mage.space          | https://www.mage.space/ |
 
 
-
-
 ### Video/Audio AI Assistants (text->video, text->speech, speech->text)
 | Name        | URL                           |
 | ----------- | ----------------------------- |
@@ -63,8 +62,6 @@
 | VALL-E (Microsoft)         | https://www.microsoft.com/en-us/research/project/vall-e-x/vall-e-x/ | 
 | Video Poet | https://sites.research.google/videopoet/ | 
 
-
-
 ### Music AI Assistants (text->music)
 | Name               | URL                           |
 | ------------------ | ----------------------------- |
@@ -73,3 +70,9 @@
 | MusicLM            | https://google-research.github.io/seanet/musiclm/examples/ |
 | MusicGen           | https://audiocraft.metademolab.com/musicgen.html |
 
+### GenAI/LLM Application Development Tools
+| Name               | URL                                |
+| ------------------ | -----------------------------      |
+| Google Colab       | https://colab.research.google.com/ |
+| Hugging  Face      | https://huggingface.co/ |
+| Flowise            | https://docs.flowiseai.com/ |
