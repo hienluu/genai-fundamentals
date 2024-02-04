@@ -76,3 +76,8 @@
 | Google Colab       | https://colab.research.google.com/ |
 | Hugging  Face      | https://huggingface.co/ |
 | Flowise            | https://docs.flowiseai.com/ |
+
+
+
+### Resources
+[Resources](./resources.md)
