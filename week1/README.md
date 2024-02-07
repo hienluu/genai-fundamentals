@@ -10,7 +10,6 @@
 | Bing Chat   | Microsoft  | https://www.bing.com/chat |
 | Claude      | Anthropic  | https://claude.ai/chat |
 | Coral       | Cohere     | https://dashboard.cohere.com/playground |
-| Coral       | Cohere     | https://dashboard.cohere.com/playground |
 | Pi.ai       | Inflection AI | https://pi.ai  |
 | Poe       | Poe | https://poe.com/  |
 | Perflexity Labs      | Perflexity.ai | https://labs.perplexity.ai/  |
