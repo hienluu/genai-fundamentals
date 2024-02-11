@@ -7,6 +7,7 @@
 | ----------- | -----------| ----------------------------- |
 | ChatGPT     | OpenAI     | https://chat.openai.com |
 | Bard        | Google     | https://bard.google.com/ |
+| Gemini      | Google     | https://gemini.google.com |
 | Bing Chat   | Microsoft  | https://www.bing.com/chat |
 | Claude      | Anthropic  | https://claude.ai/chat |
 | Coral       | Cohere     | https://dashboard.cohere.com/playground |
