@@ -78,7 +78,8 @@
 | Hugging  Face      | https://huggingface.co/ |
 | Flowise            | https://docs.flowiseai.com/ |
 
-
+### Prompt Examples for image generation
+[Stable Diffusion Prompts](https://huggingface.co/datasets/Gustavosta/Stable-Diffusion-Prompts)
 
 ### Resources
 [Resources](./resources.md)
