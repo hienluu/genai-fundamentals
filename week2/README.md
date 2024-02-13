@@ -13,6 +13,7 @@
 
 #### Resources:
 
-* [Hugging Face - LLM model hub](https://huggingface.co/)
+* [Hugging Face - LLM model hub](https://huggingface.co/) - take a toour
+* [Hugging Face chat](https://huggingface.co/chat/)
 * [Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) by Andrej Karpathy
 * [State of GPT](https://www.youtube.com/watch?v=bZQun8Y4L2A) by Andrej Karpathy
