@@ -7,14 +7,15 @@
 | ----------- | -----------| ----------------------------- |
 | ChatGPT     | OpenAI     | https://chat.openai.com |
 | Bard        | Google     | https://bard.google.com/ |
+| Gemini      | Google     | https://gemini.google.com |
 | Bing Chat   | Microsoft  | https://www.bing.com/chat |
 | Claude      | Anthropic  | https://claude.ai/chat |
-| Coral       | Cohere     | https://dashboard.cohere.com/playground |
 | Coral       | Cohere     | https://dashboard.cohere.com/playground |
 | Pi.ai       | Inflection AI | https://pi.ai  |
 | Poe       | Poe | https://poe.com/  |
 | Perflexity Labs      | Perflexity.ai | https://labs.perplexity.ai/  |
 | TextFX    | Google | https://aitestkitchen.withgoogle.com/tools/text-fx |
+| FlowGPT | https://flowgpt.com/ |
 
 ### Coversational Based AI Tools w/ Your Data
 | Name               | URL                                                     |
@@ -76,3 +77,9 @@
 | Google Colab       | https://colab.research.google.com/ |
 | Hugging  Face      | https://huggingface.co/ |
 | Flowise            | https://docs.flowiseai.com/ |
+
+### Prompt Examples for image generation
+[Stable Diffusion Prompts](https://huggingface.co/datasets/Gustavosta/Stable-Diffusion-Prompts)
+
+### Resources
+[Resources](./resources.md)
