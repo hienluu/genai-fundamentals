@@ -10,3 +10,9 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 ### Links to resources for each week
 * [Week1 ReadMe](week1/README.md)
 * [Week2 ReadMe](week2/README.md)
+
+### News of the week
+
+#### 02/16/2024
+* [Open AI released Sora](https://openai.com/sora) - creating video from text
+* [Google rolled out Gemini 1.5](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/#sundar-note) - 1M tokens context length
