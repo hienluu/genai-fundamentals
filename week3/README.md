@@ -6,7 +6,7 @@
 #### Exercise
 * Watch this youtube video [Use Strategic Thinking to Create the Life You Want](https://www.youtube.com/watch?v=dbiNhAZlXZk)
 * Read this article [Use Strategic Thinking to Create the Life You Want ](strategic-thinking-to-create-life-you-want.pdf)
-* Use prompt engineer to
+* Use prompt engineering to
   1) Summarize the key takeaways of this article
   2) Produce an article about "Your Life Strategy"
 * What you need to submit:
