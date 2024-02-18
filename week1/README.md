@@ -47,6 +47,7 @@
 | Stablecog       | https://stablecog.com/ |
 | Starryai          | https://starryai.com/ |
 | mage.space          | https://www.mage.space/ |
+| Replicate         | https://replicate.com/zsxkib/instant-id |
 
 
 ### Video/Audio AI Assistants (text->video, text->speech, speech->text)
