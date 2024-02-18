@@ -2,6 +2,18 @@
 
 #### Resources
 
+#### Productivity ideas
+
+##### Personal
+* Track daily calorie intake
+* Summarize reading notes
+* Assist in reading research paper
+
+
+##### Professional
+* Interview preparation
+* Career coach
+
 
 #### Exercise
 * Watch this youtube video [Use Strategic Thinking to Create the Life You Want](https://www.youtube.com/watch?v=dbiNhAZlXZk)
