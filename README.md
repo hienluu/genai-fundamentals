@@ -9,6 +9,8 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 ### Gradio
 * [Gradio Quickstart](https://www.gradio.app/guides/quickstart)
 * [Gradio Application Guides](https://www.gradio.app/guides)
+* [Intro. to Gradio from NLP Course](https://huggingface.co/learn/nlp-course/chapter9/1)
+* [Gradio Github demo](https://github.com/gradio-app/gradio/tree/main/demo)
 
 
 ### Links to resources for each week
