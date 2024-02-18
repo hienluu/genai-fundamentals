@@ -6,6 +6,10 @@ This comprehensive course introduces participants to the world of generative AI 
 
 Throughout the course, you'll gain a solid understanding of the underlying technology, including deep learning and neural networks, as well as the architecture of ChatGPT, its variants, and the basics of prompt engineering. You will also learn about the tools, resources, and best practices for building generative AI models. Moreover, you’ll have the chance to explore emerging trends, ethical considerations, and future opportunities in the field.
 
+### Gradio
+* [Gradio Quickstart](https://www.gradio.app/guides/quickstart)
+* [Gradio Application Guides](https://www.gradio.app/guides)
+
 
 ### Links to resources for each week
 * [Week1 ReadMe](week1/README.md)
