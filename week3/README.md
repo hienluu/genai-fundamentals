@@ -30,6 +30,7 @@
 * Due date: 03/04
 
 #### Resources
+* [LearnPrompt.org - a list of curated prompt examples, verbs, tone of voice](https://www.learnprompt.org/)
 * [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts/)
 * [The Art of ChatGPT Prompting](https://fka.gumroad.com/l/art-of-chatgpt-prompting)
 * [How to make money with ChatGPT: Strategies, Tips, Tactics](https://fka.gumroad.com/l/how-to-make-money-with-chatgpt)
