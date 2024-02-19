@@ -22,3 +22,4 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 #### 02/16/2024
 * [Open AI released Sora](https://openai.com/sora) - creating video from text
 * [Google rolled out Gemini 1.5](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/#sundar-note) - 1M tokens context length
+* [Microsoft Copilot](https://www.bing.com/search?toncp=0&FORM=hpcodx&q=Bing+AI&showconv=1)
