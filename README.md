@@ -14,8 +14,9 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 
 
 ### Links to resources for each week
-* [Week1 ReadMe](week1/README.md)
-* [Week2 ReadMe](week2/README.md)
+* [Week 1 ReadMe](week1/README.md)
+* [Week 2 ReadMe](week2/README.md)
+* [Week 3 ReadMe](week3/README.md)
 
 ### News of the week
 
