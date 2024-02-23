@@ -20,6 +20,11 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 
 ### News of the week
 
+#### 02/23/2024
+* [a16z - companies tackling generation and editing](https://twitter.com/venturetwins/status/1757077455616332056)
+* [Google Gemma](https://blog.google/technology/developers/gemma-open-models/)
+  * [Kaggle competition - AI Assistants for Data Tasks with Gemma](https://www.kaggle.com/competitions/data-assistants-with-gemma)
+
 #### 02/16/2024
 * [Open AI released Sora](https://openai.com/sora) - creating video from text
 * [Google rolled out Gemini 1.5](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/#sundar-note) - 1M tokens context length
