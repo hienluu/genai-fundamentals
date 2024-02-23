@@ -1,4 +1,5 @@
-# Welcome to the UCSC Extension [Generative AI Fundamentals Course](https://www.ucsc-extension.edu/courses/generative-ai-fundamentals/)
+# Welcome to [Generative AI Fundamentals Course](https://www.ucsc-extension.edu/courses/generative-ai-fundamentals/). 
+#### This course is offered at [UCSC Extension school](https://www.ucsc-extension.edu/courses/generative-ai-fundamentals/) and [Hien Luu](https://www.linkedin.com/in/hienluu/) is the instructor.
 
 <img src="images/image_fx_a_treasure_chest_at_the_bottom_of_the_ocean_t.png" width="500" height="500" />
 
