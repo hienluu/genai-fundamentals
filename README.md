@@ -18,6 +18,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [Week 1 ReadMe](week1/README.md)
 * [Week 2 ReadMe](week2/README.md)
 * [Week 3 ReadMe](week3/README.md)
+* [Week 4 ReadMe](week4/README.md)
 
 ### News of the week
 
@@ -25,6 +26,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [a16z - companies tackling generation and editing](https://twitter.com/venturetwins/status/1757077455616332056)
 * [Google Gemma](https://blog.google/technology/developers/gemma-open-models/)
   * [Kaggle competition - AI Assistants for Data Tasks with Gemma](https://www.kaggle.com/competitions/data-assistants-with-gemma)
+* [Google - We're aware that Gemini is offering inaccuracies in some historical image generation depictions](https://twitter.com/Google_Comms/status/1760354549481546035)
 
 #### 02/16/2024
 * [Open AI released Sora](https://openai.com/sora) - creating video from text
