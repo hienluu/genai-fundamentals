@@ -8,6 +8,7 @@
 
 #### Resources
 * [Google Colab](https://colab.research.google.com/)
+* [Gemini API: Quickstart with Python](https://ai.google.dev/tutorials/python_quickstart)
 * [Getting started with Google Colab](https://www.youtube.com/watch?v=inN8seMm7UI)
 * [Gradio home page](https://www.gradio.app/)
     * [Gradio Quickstart](https://huggingface.co/spaces/HumanAIGC/OutfitAnyone)
