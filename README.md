@@ -12,6 +12,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [Gradio Application Guides](https://www.gradio.app/guides)
 * [Intro. to Gradio from NLP Course](https://huggingface.co/learn/nlp-course/chapter9/1)
 * [Gradio Github demo](https://github.com/gradio-app/gradio/tree/main/demo)
+* [Gradio theme](https://huggingface.co/spaces/freddyaboulton/dracula_revamped)
 
 
 ### Links to resources for each week
@@ -21,6 +22,11 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [Week 4 ReadMe](week4/README.md)
 
 ### News of the week
+
+#### 03/07/2024
+* [Stardog Voicebox Customer 360 Use Case Demo](https://www.youtube.com/watch?v=77OtxQr0DCk)
+
+
 
 #### 02/23/2024
 * [a16z - companies tackling generation and editing](https://twitter.com/venturetwins/status/1757077455616332056)
