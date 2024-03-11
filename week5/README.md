@@ -6,6 +6,13 @@
 * [Create an account on Hugging Face](https://huggingface.co/join)
     * [Hudding Face access token](https://huggingface.co/settings/tokens)
 
+### Gradio
+* [Gradio Quickstart](https://www.gradio.app/guides/quickstart)
+* [Gradio Application Guides](https://www.gradio.app/guides)
+* [Intro. to Gradio from NLP Course](https://huggingface.co/learn/nlp-course/chapter9/1)
+* [Gradio Github demo](https://github.com/gradio-app/gradio/tree/main/demo)
+* [Gradio themes](https://huggingface.co/spaces/gradio/theme-gallery)
+
 #### Resources
 * [Google Colab](https://colab.research.google.com/)
 * [Gemini API: Quickstart with Python](https://ai.google.dev/tutorials/python_quickstart)
