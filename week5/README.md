@@ -12,6 +12,7 @@
 * [Intro. to Gradio from NLP Course](https://huggingface.co/learn/nlp-course/chapter9/1)
 * [Gradio Github demo](https://github.com/gradio-app/gradio/tree/main/demo)
 * [Gradio themes](https://huggingface.co/spaces/gradio/theme-gallery)
+* [Hands-on Class w/ Hugging Face](https://docs.google.com/presentation/d/1zQqpFTcpNLV7haj2Inw2qKHq8DjfZEaiObW1ZkLvPWM/edit#slide=id.g11f9f7ac3c7_0_0)
 
 #### Resources
 * [Google Colab](https://colab.research.google.com/)
