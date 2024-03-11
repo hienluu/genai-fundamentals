@@ -12,6 +12,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [Gradio Application Guides](https://www.gradio.app/guides)
 * [Intro. to Gradio from NLP Course](https://huggingface.co/learn/nlp-course/chapter9/1)
 * [Gradio Github demo](https://github.com/gradio-app/gradio/tree/main/demo)
+* [Gradio themes](https://huggingface.co/spaces/gradio/theme-gallery)
 
 
 ### Links to resources for each week
@@ -24,6 +25,8 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 
 #### 03/05/2024
 * [Anthropic released Claude 3 (Haiku, Sonnet Opus)](https://www.anthropic.com/news/claude-3-family)
+* [Stardog Voicebox Customer 360 Use Case Demo](https://www.youtube.com/watch?v=77OtxQr0DCk)
+
 
 #### 02/23/2024
 * [a16z - companies tackling generation and editing](https://twitter.com/venturetwins/status/1757077455616332056)
