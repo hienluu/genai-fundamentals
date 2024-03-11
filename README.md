@@ -7,13 +7,6 @@ This comprehensive course introduces participants to the world of generative AI 
 
 Throughout the course, you'll gain a solid understanding of the underlying technology, including deep learning and neural networks, as well as the architecture of ChatGPT, its variants, and the basics of prompt engineering. You will also learn about the tools, resources, and best practices for building generative AI models. Moreover, you’ll have the chance to explore emerging trends, ethical considerations, and future opportunities in the field.
 
-### Gradio
-* [Gradio Quickstart](https://www.gradio.app/guides/quickstart)
-* [Gradio Application Guides](https://www.gradio.app/guides)
-* [Intro. to Gradio from NLP Course](https://huggingface.co/learn/nlp-course/chapter9/1)
-* [Gradio Github demo](https://github.com/gradio-app/gradio/tree/main/demo)
-* [Gradio themes](https://huggingface.co/spaces/gradio/theme-gallery)
-
 
 ### Links to resources for each week
 * [Week 1 ReadMe](week1/README.md)
@@ -26,6 +19,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 #### 03/05/2024
 * [Anthropic released Claude 3 (Haiku, Sonnet Opus)](https://www.anthropic.com/news/claude-3-family)
 * [Stardog Voicebox Customer 360 Use Case Demo](https://www.youtube.com/watch?v=77OtxQr0DCk)
+* [How to build a career in AI](https://www.deeplearning.ai/resources/#ebooks)
 
 
 #### 02/23/2024
