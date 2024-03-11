@@ -18,19 +18,19 @@
 * Career coach
 
 
-#### Exercise
+#### Resources for assignment
 * Watch this youtube video [Use Strategic Thinking to Create the Life You Want](https://www.youtube.com/watch?v=dbiNhAZlXZk)
 * Read this article [Use Strategic Thinking to Create the Life You Want ](strategic-thinking-to-create-life-you-want.pdf)
-* Use prompt engineering to
-  1) Summarize the key takeaways of this article
-  2) Produce an article about "Your Life Strategy"
-* What you need to submit:
-  * The prompts you use for each part
-  * "Your Life Strategy" article
-* Due date: 03/04
 
 #### Resources
+<<<<<<< HEAD
 * [LearnPrompt.org - a list of curated prompt examples, verbs, tone of voice](https://www.learnprompt.org/)
+=======
+* [PromptBase](https://promptbase.com/)
+* [Prompt Engineering Guide](https://www.promptingguide.ai/)
+* [Learn Prompting](https://learnprompting.org/docs/category/-prompt-hacking)
+>>>>>>> b1c6aa87a92924c4089797207ec4a1c724b1421a
 * [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts/)
 * [The Art of ChatGPT Prompting](https://fka.gumroad.com/l/art-of-chatgpt-prompting)
 * [How to make money with ChatGPT: Strategies, Tips, Tactics](https://fka.gumroad.com/l/how-to-make-money-with-chatgpt)
+* [Example Prompts from FlowGPT](https://guide.flowgpt.com/engineering/1basics/4example)

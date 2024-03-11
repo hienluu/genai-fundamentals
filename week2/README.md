@@ -27,3 +27,5 @@
 * [Hugging Face chat](https://huggingface.co/chat/)
 * [Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) by Andrej Karpathy
 * [State of GPT](https://www.youtube.com/watch?v=bZQun8Y4L2A) by Andrej Karpathy
+* [Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE)
+* [Let's build GPT: from scratch, in code, spelled out](https://www.youtube.com/watch?v=kCc8FmEb1nY)

@@ -1,4 +1,5 @@
-# Welcome to the UCSC Extension [Generative AI Fundamentals Course](https://www.ucsc-extension.edu/courses/generative-ai-fundamentals/)
+# Welcome to [Generative AI Fundamentals Course](https://www.ucsc-extension.edu/courses/generative-ai-fundamentals/). 
+#### This course is offered at [UCSC Extension school](https://www.ucsc-extension.edu/courses/generative-ai-fundamentals/) and [Hien Luu](https://www.linkedin.com/in/hienluu/) is the instructor.
 
 <img src="images/image_fx_a_treasure_chest_at_the_bottom_of_the_ocean_t.png" width="500" height="500" />
 
@@ -14,11 +15,23 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 
 
 ### Links to resources for each week
-* [Week1 ReadMe](week1/README.md)
-* [Week2 ReadMe](week2/README.md)
+* [Week 1 ReadMe](week1/README.md)
+* [Week 2 ReadMe](week2/README.md)
+* [Week 3 ReadMe](week3/README.md)
+* [Week 4 ReadMe](week4/README.md)
 
 ### News of the week
+
+#### 03/05/2024
+* [Anthropic released Claude 3 (Haiku, Sonnet Opus)](https://www.anthropic.com/news/claude-3-family)
+
+#### 02/23/2024
+* [a16z - companies tackling generation and editing](https://twitter.com/venturetwins/status/1757077455616332056)
+* [Google Gemma](https://blog.google/technology/developers/gemma-open-models/)
+  * [Kaggle competition - AI Assistants for Data Tasks with Gemma](https://www.kaggle.com/competitions/data-assistants-with-gemma)
+* [Google - We're aware that Gemini is offering inaccuracies in some historical image generation depictions](https://twitter.com/Google_Comms/status/1760354549481546035)
 
 #### 02/16/2024
 * [Open AI released Sora](https://openai.com/sora) - creating video from text
 * [Google rolled out Gemini 1.5](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/#sundar-note) - 1M tokens context length
+* [Microsoft Copilot](https://www.bing.com/search?toncp=0&FORM=hpcodx&q=Bing+AI&showconv=1)
