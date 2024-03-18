@@ -4,7 +4,15 @@
 * Make sure to have a Google account
 * [Get Google API Key from Google AI Studio](https://aistudio.google.com/app/apikey)
 * [Create an account on Hugging Face](https://huggingface.co/join)
-    * [Hudding Face access token](https://huggingface.co/settings/tokens)
+    * [Hugging Face access token](https://huggingface.co/settings/tokens)
+
+### Colab Notebooks to go over
+* [Introduction to colab](https://colab.research.google.com/)
+* [Interacting w/ Gemini](https://colab.research.google.com/drive/1IbQg-TB3_DQ5Nt6QyB29UWjPL9k-pebF?usp=sharing)
+* [Interacting w/ models hosted on Replicate.com ](https://colab.research.google.com/drive/1bWP_807B4ILnFOcNO3zZnT1B8966z_fA?usp=sharing)
+* [Getting started with Gradio](https://colab.research.google.com/drive/1tUkgGrODMbjk5Yb_7pV0kGNSyEZ_kDb4?usp=sharing)
+* [Gradio w/ Gemini](https://colab.research.google.com/drive/1u87TeLOoyrzlHvH0vPCuD7FaimulNkAf?usp=sharing)
+* [Gradio chatbot w/ HF models](https://colab.research.google.com/drive/1WLiyB2-zGivpjc1O8YIhcpNfj0b1AQVE?usp=sharing)
 
 ### Gradio
 * [Gradio Quickstart](https://www.gradio.app/guides/quickstart)
