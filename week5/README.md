@@ -25,6 +25,7 @@
 #### Resources
 * [Google Colab](https://colab.research.google.com/)
 * [Gemini API: Quickstart with Python](https://ai.google.dev/tutorials/python_quickstart)
+* [Transforming Text and Image Processing with Gemini AI](https://medium.com/international-school-of-ai-data-science/transforming-text-and-image-processing-with-gemini-ai-25d1dc88c27f)
 * [Getting started with Google Colab](https://www.youtube.com/watch?v=inN8seMm7UI)
 * [Gradio home page](https://www.gradio.app/)
     * [Gradio Quickstart](https://huggingface.co/spaces/HumanAIGC/OutfitAnyone)
