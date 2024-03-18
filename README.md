@@ -15,6 +15,8 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [Week 4 ReadMe](week4/README.md)
 
 ### News of the week
+#### 03/19/2024
+* [Grok open release - 314B parameter](https://x.ai/blog/grok-os)
 
 #### 03/05/2024
 * [Anthropic released Claude 3 (Haiku, Sonnet Opus)](https://www.anthropic.com/news/claude-3-family)
