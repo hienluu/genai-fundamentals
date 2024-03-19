@@ -13,6 +13,7 @@
 * [Getting started with Gradio](https://colab.research.google.com/drive/1tUkgGrODMbjk5Yb_7pV0kGNSyEZ_kDb4?usp=sharing)
 * [Gradio w/ Gemini](https://colab.research.google.com/drive/1u87TeLOoyrzlHvH0vPCuD7FaimulNkAf?usp=sharing)
 * [Gradio chatbot w/ HF models](https://colab.research.google.com/drive/1WLiyB2-zGivpjc1O8YIhcpNfj0b1AQVE?usp=sharing)
+* [Gradio multimodals example](https://colab.research.google.com/drive/1OmnchldgJfe9Iau4mm7-H_H5kIbz9KF_?usp=sharing)
 
 ### Gradio
 * [Gradio Quickstart](https://www.gradio.app/guides/quickstart)
