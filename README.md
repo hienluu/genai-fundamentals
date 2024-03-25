@@ -25,6 +25,10 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [Grok open release - 314B parameter](https://x.ai/blog/grok-os)
 * [Devin - first AI softrware engineer by Cognition Labs](https://www.cognition-labs.com/introducing-devin)
 * [OpenAI]
+* [OpenAI - OpenAI Speech-to-Speech Reasoning Robot](https://www.youtube.com/watch?v=Sq1QZB5baNw)
+* [Nvidia GTC March 2024](https://www.youtube.com/watch?v=Y2F8yisiS6E)
+* [Nvidia - Project GROOT: Foundation Model for Humanoid Robots](https://nvidianews.nvidia.com/news/foundation-model-isaac-robotics-platform)
+
 
 #### 03/05/2024
 * [Anthropic released Claude 3 (Haiku, Sonnet Opus)](https://www.anthropic.com/news/claude-3-family)
