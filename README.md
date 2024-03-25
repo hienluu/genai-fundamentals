@@ -17,9 +17,14 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [Week 6 ReadMe](week6/README.md)
 
 ### News of the week
+#### 03/27/2024
+* [Video Magic](https://www.youtube.com/watch?v=MlPefkrS-Sk)
+* [Microsoft acquired Inflection](https://www.bloomberg.com/news/articles/2024-03-21/microsoft-to-pay-inflection-ai-650-million-after-scooping-up-most-of-staff)
+
 #### 03/19/2024
 * [Grok open release - 314B parameter](https://x.ai/blog/grok-os)
 * [Devin - first AI softrware engineer by Cognition Labs](https://www.cognition-labs.com/introducing-devin)
+* [OpenAI]
 
 #### 03/05/2024
 * [Anthropic released Claude 3 (Haiku, Sonnet Opus)](https://www.anthropic.com/news/claude-3-family)
