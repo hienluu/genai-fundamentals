@@ -18,6 +18,8 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 
 ### News of the week
 #### 03/27/2024
+* [Databricks DBRX](https://www.databricks.com/company/newsroom/press-releases/databricks-launches-dbrx-new-standard-efficient-open-source-models)
+* [Google AI Hackathon](https://googleai.devpost.com/)
 * [Video Magic](https://www.youtube.com/watch?v=MlPefkrS-Sk)
 * [Microsoft acquired Inflection](https://www.bloomberg.com/news/articles/2024-03-21/microsoft-to-pay-inflection-ai-650-million-after-scooping-up-most-of-staff)
 
