@@ -5,6 +5,6 @@
 
 #### Resources
 * [LangChain](https://www.langchain.com/)
-* [Rag from Scratch](https://www.youtube.com/playlist?list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x)
+* [RAG from Scratch](https://www.youtube.com/playlist?list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x)
 * [Q&A w/ LangChain](https://python.langchain.com/docs/use_cases/question_answering/)
 * [How to Build a RAG-Powered Chatbot with Chat, Embed, and Rerank](https://txt.cohere.com/rag-chatbot/)
