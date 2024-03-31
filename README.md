@@ -17,7 +17,8 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [Week 6 ReadMe](week6/README.md)
 
 ### News of the week
-#### 03/27/2024
+#### 04/02/2024
+* [Open-Sore 1.0](https://github.com/hpcaitech/Open-Sora?tab=readme-ov-file)
 * [Databricks DBRX](https://www.databricks.com/company/newsroom/press-releases/databricks-launches-dbrx-new-standard-efficient-open-source-models)
 * [Google AI Hackathon](https://googleai.devpost.com/)
 * [Video Magic](https://www.youtube.com/watch?v=MlPefkrS-Sk)

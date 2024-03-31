@@ -34,3 +34,5 @@
 * [Example Prompts from FlowGPT](https://guide.flowgpt.com/engineering/1basics/4example)
 * [Unravel Prompt Engineering](https://go.superwise.ai/hubfs/PDF%20assets/Prompt%20engineering_17.10.2023.pdf) ([youtube video](https://www.youtube.com/watch?v=eYtYIw0D1wI))
 * [Anthropic Prompt Library](https://docs.anthropic.com/claude/prompt-library)
+* [PromptPerfect](https://lnkd.in/dt8dCSbS)
+* [PromptHero](https://prompthero.com/)
