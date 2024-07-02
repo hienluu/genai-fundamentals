@@ -17,6 +17,9 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [Week 6 ReadMe](week6/README.md)
 
 ### News of the week
+#### 07/01/2024
+* [Claude 3.5 Sonnet](https://www.anthropic.com/news/claude-3-5-sonnet)
+
 #### 04/02/2024
 * [Open-Sore 1.0](https://github.com/hpcaitech/Open-Sora?tab=readme-ov-file)
 * [Databricks DBRX](https://www.databricks.com/company/newsroom/press-releases/databricks-launches-dbrx-new-standard-efficient-open-source-models)
