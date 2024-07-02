@@ -19,6 +19,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 ### News of the week
 #### 07/01/2024
 * [Claude 3.5 Sonnet](https://www.anthropic.com/news/claude-3-5-sonnet)
+* [Gen-3 Alpha by Runway](https://www.youtube.com/watch?v=nByslCkykj8) 
 
 #### 04/02/2024
 * [Open-Sore 1.0](https://github.com/hpcaitech/Open-Sora?tab=readme-ov-file)
