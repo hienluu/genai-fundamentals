@@ -17,6 +17,11 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [Week 6 ReadMe](week6/README.md)
 
 ### News of the week
+#### 07/20/2024
+* [Generative AI in a Nutshell - how to survive and thrive in the age of AI](https://www.youtube.com/watch?v=2IK3DFHRFfw)
+* [GPT-4o Mini: most cost-efficient small model](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/)
+* [LLM Workshop 2024 by Sebastian](https://github.com/rasbt/LLM-workshop-2024)
+
 #### 07/01/2024
 * [Claude 3.5 Sonnet](https://www.anthropic.com/news/claude-3-5-sonnet)
 * [Gen-3 Alpha by Runway](https://www.youtube.com/watch?v=nByslCkykj8) 
