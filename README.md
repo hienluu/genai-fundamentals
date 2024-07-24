@@ -18,6 +18,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 
 ### News of the week
 #### 07/20/2024
+* [Llama 3.1 launch - 8B, 70B, 405B](https://ai.meta.com/blog/meta-llama-3-1/)
 * [Generative AI in a Nutshell - how to survive and thrive in the age of AI](https://www.youtube.com/watch?v=2IK3DFHRFfw)
 * [GPT-4o Mini: most cost-efficient small model](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/)
 * [LLM Workshop 2024 by Sebastian](https://github.com/rasbt/LLM-workshop-2024)
