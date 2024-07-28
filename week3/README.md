@@ -1,7 +1,5 @@
 ### Week 3 - Prompt Engineering I
 
-#### Resources
-
 #### Productivity ideas
 
 ##### Personal
@@ -21,6 +19,7 @@
 #### Resources for assignment
 * Watch this youtube video [Use Strategic Thinking to Create the Life You Want](https://www.youtube.com/watch?v=dbiNhAZlXZk)
 * Read this article [Use Strategic Thinking to Create the Life You Want ](strategic-thinking-to-create-life-you-want.pdf)
+* Have fun with [Chatzaroni](https://huggingface.co/spaces/hienluu/chatzaroni) - a Hugging Face space
 
 #### Resources
 

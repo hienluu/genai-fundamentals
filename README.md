@@ -21,6 +21,8 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [Open WebUI](https://docs.openwebui.com/)
   * pip install open-webui
   * open-webui serve
+* [SearchGPT (prototype)](https://openai.com/index/searchgpt-prototype/)
+  * Combine the the strength of our AI models with information from the web to give you fast and timely answers with clear and relevant sources
 
 
 #### 07/20/2024
