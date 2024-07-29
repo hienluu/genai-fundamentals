@@ -23,6 +23,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
   * open-webui serve
 * [SearchGPT (prototype)](https://openai.com/index/searchgpt-prototype/)
   * Combine the the strength of our AI models with information from the web to give you fast and timely answers with clear and relevant sources
+* [Google makes Gemini 1.5 Flash free for all users](https://blog.google/products/gemini/google-gemini-new-features-july-2024/)
 
 
 #### 07/20/2024
