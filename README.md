@@ -17,6 +17,12 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [Week 6 ReadMe](week6/README.md)
 
 ### News of the week
+#### 08/06/2024
+* [Flux, an open-source AI Image Generator that beats Midjourney](https://blackforestlabs.ai/#get-flux)
+  * https://fal.ai/models/fal-ai/flux/dev
+  * https://replicate.com/black-forest-labs/flux-dev
+
+
 #### 07/27/2024
 * [Open WebUI](https://docs.openwebui.com/)
   * pip install open-webui

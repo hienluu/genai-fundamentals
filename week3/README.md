@@ -35,3 +35,5 @@
 * [Anthropic Prompt Library](https://docs.anthropic.com/claude/prompt-library)
 * [PromptPerfect](https://lnkd.in/dt8dCSbS)
 * [PromptHero](https://prompthero.com/)
+* [Gemini Prompt Gallery](https://ai.google.dev/gemini-api/prompts)
+* [OpenAI Prompt Examples](https://platform.openai.com/docs/examples)
