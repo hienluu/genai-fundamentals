@@ -21,6 +21,8 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [Flux, an open-source AI Image Generator that beats Midjourney](https://blackforestlabs.ai/#get-flux)
   * https://fal.ai/models/fal-ai/flux/dev
   * https://replicate.com/black-forest-labs/flux-dev
+* [AI Python for Beginners](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/)
+* [Character.AI + Google](https://blog.character.ai/our-next-phase-of-growth/)
 
 
 #### 07/27/2024
