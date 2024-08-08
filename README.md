@@ -17,13 +17,19 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [Week 6 ReadMe](week6/README.md)
 
 ### News of the week
+#### 08/14/2024
+* [Gemini 1.5 Flash price drop & improvements](https://developers.googleblog.com/en/gemini-15-flash-updates-google-ai-studio-gemini-api/)
+* [F2 Robot]
+
 #### 08/06/2024
 * [Flux, an open-source AI Image Generator that beats Midjourney](https://blackforestlabs.ai/#get-flux)
   * https://fal.ai/models/fal-ai/flux/dev
   * https://replicate.com/black-forest-labs/flux-dev
 * [AI Python for Beginners](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/)
 * [Character.AI + Google](https://blog.character.ai/our-next-phase-of-growth/)
-
+* [Gradio - Cinemo](https://huggingface.co/spaces/maxin-cn/Cinemo)
+* [OpenAI Structured Outputs](https://openai.com/index/introducing-structured-outputs-in-the-api/)
+* [Claude Engineer](https://github.com/Doriandarko/claude-engineer)
 
 #### 07/27/2024
 * [Open WebUI](https://docs.openwebui.com/)

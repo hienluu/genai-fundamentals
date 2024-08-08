@@ -22,10 +22,12 @@
 * [Gradio Github demo](https://github.com/gradio-app/gradio/tree/main/demo)
 * [Gradio themes](https://huggingface.co/spaces/gradio/theme-gallery)
 * [Hands-on Class w/ Hugging Face](https://docs.google.com/presentation/d/1zQqpFTcpNLV7haj2Inw2qKHq8DjfZEaiObW1ZkLvPWM/edit#slide=id.g11f9f7ac3c7_0_0)
+* [Gradio client](https://www.gradio.app/guides/getting-started-with-the-python-client)
 
 #### Resources
 * [Google Colab](https://colab.research.google.com/)
 * [Gemini API: Quickstart with Python](https://ai.google.dev/tutorials/python_quickstart)
+* [Groq Cloud](https://console.groq.com/playground)
 * [Transforming Text and Image Processing with Gemini AI](https://medium.com/international-school-of-ai-data-science/transforming-text-and-image-processing-with-gemini-ai-25d1dc88c27f)
 * [Getting started with Google Colab](https://www.youtube.com/watch?v=inN8seMm7UI)
 * [Gradio home page](https://www.gradio.app/)
