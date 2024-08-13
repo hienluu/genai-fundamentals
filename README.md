@@ -30,6 +30,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [Gradio - Cinemo](https://huggingface.co/spaces/maxin-cn/Cinemo)
 * [OpenAI Structured Outputs](https://openai.com/index/introducing-structured-outputs-in-the-api/)
 * [Claude Engineer](https://github.com/Doriandarko/claude-engineer)
+* [Figure 2 - robot](https://www.youtube.com/watch?v=0SRVJaOg9Co)
 
 #### 07/27/2024
 * [Open WebUI](https://docs.openwebui.com/)
