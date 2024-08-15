@@ -20,8 +20,9 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 #### 08/14/2024
 * [Gemini 1.5 Flash price drop & improvements](https://developers.googleblog.com/en/gemini-15-flash-updates-google-ai-studio-gemini-api/)
 * [OpenAI Structured Outputs](https://openai.com/index/introducing-structured-outputs-in-the-api/)
-* [Claude Engineer](https://github.com/Doriandarko/claude-engineer)
 * [Figure 2 - robot](https://www.youtube.com/watch?v=0SRVJaOg9Co)
+* [Claude Engineer](https://github.com/Doriandarko/claude-engineer)
+* [Aider - AI pair programming in your terminal](https://github.com/paul-gauthier/aider)
 
 #### 08/06/2024
 * [Flux, an open-source AI Image Generator that beats Midjourney](https://blackforestlabs.ai/#get-flux)
