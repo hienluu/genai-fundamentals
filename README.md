@@ -23,6 +23,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [Figure 2 - robot](https://www.youtube.com/watch?v=0SRVJaOg9Co)
 * [Claude Engineer](https://github.com/Doriandarko/claude-engineer)
 * [Aider - AI pair programming in your terminal](https://github.com/paul-gauthier/aider)
+* [Unsloth - fine tuning models](https://github.com/unslothai/unsloth)
 
 #### 08/06/2024
 * [Flux, an open-source AI Image Generator that beats Midjourney](https://blackforestlabs.ai/#get-flux)
