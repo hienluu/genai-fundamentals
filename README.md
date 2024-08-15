@@ -17,6 +17,9 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [Week 6 ReadMe](week6/README.md)
 
 ### News of the week
+#### 08/21/2024
+* [Grok-2 Beta Release](https://x.ai/blog/grok-2)
+
 #### 08/14/2024
 * [Gemini 1.5 Flash price drop & improvements](https://developers.googleblog.com/en/gemini-15-flash-updates-google-ai-studio-gemini-api/)
 * [OpenAI Structured Outputs](https://openai.com/index/introducing-structured-outputs-in-the-api/)
