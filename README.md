@@ -20,6 +20,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 #### 08/21/2024
 * [Lumalabs.ai - Dream Machine 1.5 release](https://lumalabs.ai/dream-machine)
 * [Grok-2 Beta Release](https://x.ai/blog/grok-2)
+* [Google - Imagen 3 release](https://aitestkitchen.withgoogle.com/tools/image-fx)
 
 #### 08/14/2024
 * [Gemini 1.5 Flash price drop & improvements](https://developers.googleblog.com/en/gemini-15-flash-updates-google-ai-studio-gemini-api/)
