@@ -18,6 +18,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 
 ### News of the week
 #### 08/21/2024
+* [Lumalabs.ai - Dream Machine 1.5 release](https://lumalabs.ai/dream-machine)
 * [Grok-2 Beta Release](https://x.ai/blog/grok-2)
 
 #### 08/14/2024
