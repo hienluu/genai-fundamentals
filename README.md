@@ -25,6 +25,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [Grok-2 Beta Release](https://x.ai/blog/grok-2)
 * [Google - Imagen 3 release](https://aitestkitchen.withgoogle.com/tools/image-fx)
 * [Microsoft Phi 3.5 LLM release](https://redmondmag.com/Articles/2024/08/21/Microsoft-Launches-Phi-Mini-Models.aspx)
+* [Flux Realism on HF](https://huggingface.co/XLabs-AI/flux-RealismLora)
 
 #### 08/14/2024
 * [Gemini 1.5 Flash price drop & improvements](https://developers.googleblog.com/en/gemini-15-flash-updates-google-ai-studio-gemini-api/)
