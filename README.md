@@ -16,6 +16,9 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [Week 5 ReadMe](week5/README.md)
 * [Week 6 ReadMe](week6/README.md)
 
+### Chatzaroni Hugging Face App 
+* [Chatzaroni](https://huggingface.co/spaces/hienluu/chatzaroni)
+  
 ### News of the week
 #### 08/21/2024
 * [Lumalabs.ai - Dream Machine 1.5 release](https://lumalabs.ai/dream-machine)
