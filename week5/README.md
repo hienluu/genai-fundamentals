@@ -6,6 +6,9 @@
 * [Create an account on Hugging Face](https://huggingface.co/join)
     * [Hugging Face access token](https://huggingface.co/settings/tokens)
 
+#### Step by step instructions for creating HF access token and save it as a secret in Colab
+* See this [resource](https://github.com/hienluu/genai-fundamentals/blob/main/week5/accesskey.md)
+
 ### Colab Notebooks to go over
 * [Introduction to colab](https://colab.research.google.com/)
 * [Interacting w/ Gemini](https://colab.research.google.com/drive/1IbQg-TB3_DQ5Nt6QyB29UWjPL9k-pebF?usp=sharing)
