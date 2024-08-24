@@ -22,4 +22,22 @@ so create one if you don't already have one
   * Paste the copied access token into a text file or somewhere on your computer
     * (because you will not be able to see the access token value again)
    
-#### Securely store the Hugginf Face access token on Google Colab
+#### Securely store the Hugging Face access token on Google Colab
+* Go to [Google Colab](https://colab.research.google.com/)
+* Click on the "Key" icon on the left most side of the page to open up the "Secrets" area
+  * Each secret has a name and a value (key-value pair)
+* Click on the "Add new secret" link
+  * Enter HF_ACCESS_TOKEN as the name of the secret
+  * Paste the Hugging Face access token value into the Value field
+  * Enbable "Notebook access" by clicking on the empty area next to the "x" mark (left most field of the secret)
+* Now close the the Secrets page by clicking on the "X" at the top right area of the "Secrets" area.
+
+#### Accessing the secret inside a Colab
+* To access a secret inside colab via Python
+```python
+from google.colab import userdata
+userdata.get('secretName')
+```
+* A popup will show up to ask you to grant access to a secret when those lines of code are executed in colab
+
+##### Have fun
