@@ -37,3 +37,5 @@
 * [PromptHero](https://prompthero.com/)
 * [Gemini Prompt Gallery](https://ai.google.dev/gemini-api/prompts)
 * [OpenAI Prompt Examples](https://platform.openai.com/docs/examples)
+* [Free ChatGPT Prompt Library by Sabrina Ramonov](https://github.com/SabrinaRamonov/prompts)
+  * A collection of prompts for different category (an awesome resource)
