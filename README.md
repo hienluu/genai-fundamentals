@@ -20,6 +20,11 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [Chatzaroni](https://huggingface.co/spaces/hienluu/chatzaroni)
   
 ### News of the week
+#### 08/28/2024
+* [OpenAI Aims to Release New AI Model, ‘Strawberry,’ in Fall](https://www.pymnts.com/news/artificial-intelligence/2024/openai-aims-release-new-ai-model-strawberry-fall/)
+* [Google rolling out 3 experimental models: Gemini 1.5 Flash-8B, Gemini 1.5 Pro, Gemini 1.5 Flash model](https://x.com/OfficialLoganK/status/1828480081574142227)
+* [GameNGen: AI model can generate playable video games on the fly](https://bgr.com/tech/gamengen-is-an-insane-new-ai-model-that-can-generate-playable-video-games-on-the-fly/)
+  
 #### 08/21/2024
 * [Lumalabs.ai - Dream Machine 1.5 release](https://lumalabs.ai/dream-machine)
 * [Grok-2 Beta Release](https://x.ai/blog/grok-2)
