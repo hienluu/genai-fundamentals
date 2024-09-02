@@ -23,6 +23,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 #### 09/02/2024
 * [85 GenAI courses - awesome resource](https://github.com/aishwaryanr/awesome-generative-ai-guide)
 * [Building LLMs from the Ground Up: a 3-hour coding workshop](https://www.youtube.com/watch?v=quh7z1q7-uc)
+* [The transformer architecture: a visual guide](https://www.hendrik-erz.de/post/the-transformer-architecture-a-visual-guide-pdf-download)
 
 #### 08/28/2024
 * [OpenAI Aims to Release New AI Model, ‘Strawberry,’ in Fall](https://www.pymnts.com/news/artificial-intelligence/2024/openai-aims-release-new-ai-model-strawberry-fall/)
