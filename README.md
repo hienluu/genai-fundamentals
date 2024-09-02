@@ -20,6 +20,10 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [Chatzaroni](https://huggingface.co/spaces/hienluu/chatzaroni)
   
 ### News of the week
+#### 09/02/2024
+* [85 GenAI courses - awesome resource](https://github.com/aishwaryanr/awesome-generative-ai-guide)
+* [Building LLMs from the Ground Up: a 3-hour coding workshop](https://www.youtube.com/watch?v=quh7z1q7-uc)
+
 #### 08/28/2024
 * [OpenAI Aims to Release New AI Model, ‘Strawberry,’ in Fall](https://www.pymnts.com/news/artificial-intelligence/2024/openai-aims-release-new-ai-model-strawberry-fall/)
 * [Google rolling out 3 experimental models: Gemini 1.5 Flash-8B, Gemini 1.5 Pro, Gemini 1.5 Flash model](https://x.com/OfficialLoganK/status/1828480081574142227)
