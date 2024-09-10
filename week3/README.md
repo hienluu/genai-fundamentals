@@ -39,3 +39,4 @@
 * [OpenAI Prompt Examples](https://platform.openai.com/docs/examples)
 * [Free ChatGPT Prompt Library by Sabrina Ramonov](https://github.com/SabrinaRamonov/prompts)
   * An awesome collection of prompts that can change your life and work (an awesome resource)
+  * [Her free prompts library on notion - A MUST](https://sabrinaramonov.notion.site/FREE-Prompts-Library-Sabrina-Ramonov-6ac894954218492d9fc9e1f7f90abc6c)
