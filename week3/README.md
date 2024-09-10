@@ -38,4 +38,4 @@
 * [Gemini Prompt Gallery](https://ai.google.dev/gemini-api/prompts)
 * [OpenAI Prompt Examples](https://platform.openai.com/docs/examples)
 * [Free ChatGPT Prompt Library by Sabrina Ramonov](https://github.com/SabrinaRamonov/prompts)
-  * A collection of prompts for different category (an awesome resource)
+  * An awesome collection of prompts that can change your life and work (an awesome resource)
