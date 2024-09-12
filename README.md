@@ -20,6 +20,9 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [Chatzaroni](https://huggingface.co/spaces/hienluu/chatzaroni)
   
 ### News of the week
+#### 09/12/2024
+* [SambaNova Cloud - Inference Cloud Platform](https://cloud.sambanova.ai/)
+
 #### 09/02/2024
 * [85 GenAI courses - awesome resource](https://github.com/aishwaryanr/awesome-generative-ai-guide)
 * [Building LLMs from the Ground Up: a 3-hour coding workshop](https://www.youtube.com/watch?v=quh7z1q7-uc)
