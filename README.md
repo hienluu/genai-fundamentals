@@ -21,6 +21,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
   
 ### News of the week
 #### 09/12/2024
+* [OpenAI o1 models - Learning to Reason ](https://openai.com/index/learning-to-reason-with-llms/)
 * [SambaNova Cloud - Inference Cloud Platform](https://cloud.sambanova.ai/)
 
 #### 09/02/2024
