@@ -20,6 +20,9 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [Chatzaroni](https://huggingface.co/spaces/hienluu/chatzaroni)
   
 ### News of the week
+#### 09/16/2024
+* [NotebookLM now lets you listen to a conversation about your sources](https://blog.google/technology/ai/notebooklm-audio-overviews/)
+
 #### 09/12/2024
 * [OpenAI o1 models - Learning to Reason ](https://openai.com/index/learning-to-reason-with-llms/)
 * [SambaNova Cloud - Inference Cloud Platform](https://cloud.sambanova.ai/)
