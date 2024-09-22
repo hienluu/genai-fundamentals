@@ -27,6 +27,9 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
   * [Demo](https://moshi.chat/)
   * [Github Report - instructions for dowloading to local](https://github.com/kyutai-labs/moshi)   
 * [Monica - Yet another ChatGPT AI Assistant w/ free tier](https://monica.im)
+* [AI Hosting Provider w/ some free credits]
+  * [together.ai - $25.00](https://api.together.ai/)
+  * [hyperbolic - $10.00](https://app.hyperbolic.xyz/)
 
 
 #### 09/16/2024
