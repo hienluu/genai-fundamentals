@@ -20,6 +20,15 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [Chatzaroni](https://huggingface.co/spaces/hienluu/chatzaroni)
   
 ### News of the week
+#### 09/22/2024
+* [Qwen2.5 release with specialized models in Math, Coder and in various sizes](https://qwenlm.github.io/blog/qwen2.5/)
+  * [Qwen2.5-Coder Demo on Hugging Face](https://huggingface.co/spaces/Qwen/Qwen2.5-Coder-7B-Instruct)
+* [MOshi AI - Advanced Native & Low Latency Conversational AI](https://moshi-ai.com/)
+  * [Demo](https://moshi.chat/)
+  * [Github Report - instructions for dowloading to local](https://github.com/kyutai-labs/moshi)   
+* [Monica - Yet another ChatGPT AI Assistant w/ free tier](https://monica.im)
+
+
 #### 09/16/2024
 * [NotebookLM now lets you listen to a conversation about your sources](https://blog.google/technology/ai/notebooklm-audio-overviews/)
 
