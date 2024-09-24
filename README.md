@@ -30,6 +30,9 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [AI Hosting Provider w/ some free credits]
   * [together.ai - $25.00](https://api.together.ai/)
   * [hyperbolic - $10.00](https://app.hyperbolic.xyz/)
+* [Ell: a lightweight prompt engineering library treating prompts as functions](https://docs.ell.so/)
+* [Marimo: an open-source reactive notebook for Python — reproducible, git-friendly, executable as a script, and shareable as an app](https://docs.marimo.io/index.html)
+  * [A good youtube video on Marimo](https://www.youtube.com/watch?v=PcLkBkQujMI)   
 
 
 #### 09/16/2024
