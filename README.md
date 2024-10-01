@@ -20,6 +20,10 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [Chatzaroni](https://huggingface.co/spaces/hienluu/chatzaroni)
   
 ### News of the week
+#### 10/01/2024
+* [Google NotebookLLM w/ Audio Overveiw](https://blog.google/technology/ai/notebooklm-audio-overviews/)
+
+  
 #### 09/22/2024
 * [Llama 3.2 - Lightweight (1B & 3B) and Multimodal models (vision)](https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/)
 * [Qwen2.5 release with specialized models in Math, Coder and in various sizes](https://qwenlm.github.io/blog/qwen2.5/)
