@@ -27,6 +27,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [Mistral 3B & 7B - edge models](https://mistral.ai/news/ministraux/)
 
 #### 10/01/2024
+* [OpenAI - introducing the realtime speech to speech API](https://openai.com/index/introducing-the-realtime-api/)
 * [Google NotebookLLM w/ Audio Overveiw](https://blog.google/technology/ai/notebooklm-audio-overviews/)
 
   
