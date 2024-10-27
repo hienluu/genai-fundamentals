@@ -20,6 +20,12 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [Chatzaroni](https://huggingface.co/spaces/hienluu/chatzaroni)
   
 ### News of the week
+#### 10/27/2024
+* [Claude 3.5 Sonnet & Kaiku update and commputer use][https://www.anthropic.com/news/3-5-models-and-computer-use]
+* [Ollama with GGUF model from Hugging Face Hub](https://huggingface.co/docs/hub/en/ollama)
+* [OpenAI Canvas - A new way of working with ChatGPT to write and code](https://openai.com/index/introducing-canvas/)
+* [Mistral 3B & 7B - edge models](https://mistral.ai/news/ministraux/)
+
 #### 10/01/2024
 * [Google NotebookLLM w/ Audio Overveiw](https://blog.google/technology/ai/notebooklm-audio-overviews/)
 
