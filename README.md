@@ -21,6 +21,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
   
 ### News of the week
 #### 10/27/2024
+* [Github Spark - enable everyone to build a fully-managed app)[https://githubnext.com/projects/github-spark]
 * [Claude 3.5 Sonnet & Kaiku update and commputer use][https://www.anthropic.com/news/3-5-models-and-computer-use]
 * [Ollama with GGUF model from Hugging Face Hub](https://huggingface.co/docs/hub/en/ollama)
 * [OpenAI Canvas - A new way of working with ChatGPT to write and code](https://openai.com/index/introducing-canvas/)
