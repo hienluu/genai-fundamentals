@@ -20,6 +20,9 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [Chatzaroni](https://huggingface.co/spaces/hienluu/chatzaroni)
   
 ### News of the week
+#### 01/20/2025
+* [DeepSeek R1 release, competitive w/ o1](https://x.com/deepseek_ai/status/1881318130334814301?s=46)
+
 #### 10/27/2024
 * [Github Spark - enable everyone to build a fully-managed app)[https://githubnext.com/projects/github-spark]
 * [Claude 3.5 Sonnet & Kaiku update and commputer use][https://www.anthropic.com/news/3-5-models-and-computer-use]
