@@ -18,6 +18,9 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 
 ### Chatzaroni Hugging Face App 
 * [Chatzaroni](https://huggingface.co/spaces/hienluu/chatzaroni)
+
+### Books
+* [Hands On LLMs](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models?tab=readme-ov-file)
   
 ### News of the week
 #### 01/20/2025
