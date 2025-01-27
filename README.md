@@ -24,7 +24,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [Build a LLM (from scratch)](https://github.com/rasbt/LLMs-from-scratch)
   
 ### News of the week
-#### 01/22/2025
+#### 01/26/2025
 * [OpenAI Operator](https://openai.com/index/introducing-operator/)
 * 
 #### 01/20/2025
