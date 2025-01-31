@@ -22,7 +22,7 @@
 * Have fun with [Chatzaroni](https://huggingface.co/spaces/hienluu/chatzaroni) - a Hugging Face space
 
 #### Resources
-
+* [ChainBrain AI - Advanced ChatGPT Prompts](https://www.chainbrainai.com/)
 * [LearnPrompt.org - a list of curated prompt examples, verbs, tone of voice](https://www.learnprompt.org/)
 * [PromptBase](https://promptbase.com/)
 * [Prompt Engineering Guide](https://www.promptingguide.ai/)
