@@ -10,7 +10,7 @@
 * [LangGraph](https://www.langchain.com/langgraph)
 
 ### Youtube Videos
-* 
+* [The Definitive Guide to Building AI Agents in 2025 - Frameworks, Patterns and Use Cases!](https://www.youtube.com/watch?v=77nHShlpCfQ)
 
 ### Course
 * [Practical Multi AI Agents and Advanced Use Cases with crewAI](https://learn.deeplearning.ai/courses/practical-multi-ai-agents-and-advanced-use-cases-with-crewai)
