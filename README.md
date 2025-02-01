@@ -18,12 +18,17 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 
 ### Chatzaroni Hugging Face App 
 * [Chatzaroni](https://huggingface.co/spaces/hienluu/chatzaroni)
+* [Mistral Small 3 - 24B, Apache 2.0](https://mistral.ai/news/mistral-small-3/)
 
 ### Books
 * [Hands On LLMs](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models?tab=readme-ov-file)
 * [Build a LLM (from scratch)](https://github.com/rasbt/LLMs-from-scratch)
   
 ### News of the week
+#### 02/01/2025
+[OpenAI o3-mini release - the newest, most cost-efficient model in our reasoning series](https://openai.com/index/openai-o3-mini)
+
+
 #### 01/26/2025
 * [OpenAI Operator](https://openai.com/index/introducing-operator/)
 * 
