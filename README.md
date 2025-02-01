@@ -31,7 +31,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 
 
 #### 01/26/2025
-* [OpenAI Operator](https://openai.com/index/introducing-operator/)
+* [OpenAI Operator - A research preview of an agent that can use its own browser to perform tasks for you.](https://openai.com/index/introducing-operator/)
 * 
 #### 01/20/2025
 * [DeepSeek R1 release, competitive w/ o1](https://x.com/deepseek_ai/status/1881318130334814301?s=46)
