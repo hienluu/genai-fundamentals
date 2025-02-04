@@ -30,3 +30,4 @@
 * [Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE)
 * [Let's build GPT: from scratch, in code, spelled out](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 * [Backprop Explainer](https://xnought.github.io/backprop-explainer/)
+* [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
