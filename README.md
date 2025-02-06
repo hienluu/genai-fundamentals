@@ -26,9 +26,11 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
   
 ### News of the week
 #### 02/01/2025
+* [OpenAI Deep Research](https://openai.com/index/introducing-deep-research/)
 * [Qwen2.5 - Max](https://qwenlm.github.io/blog/qwen2.5-max/)
 * [OpenAI o3-mini release - the newest, most cost-efficient model in our reasoning series](https://openai.com/index/openai-o3-mini)
 * [Mistral Small 3 - 24B, Apache 2.0](https://mistral.ai/news/mistral-small-3/)
+* [HuggingFace AI App Store](https://huggingface.co/spaces)
 
 
 #### 01/26/2025
