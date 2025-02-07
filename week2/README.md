@@ -31,3 +31,6 @@
 * [Let's build GPT: from scratch, in code, spelled out](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 * [Backprop Explainer](https://xnought.github.io/backprop-explainer/)
 * [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
+* [Transformers demystified: how do ChatGPT, GPT-4, LLaMa work?](https://www.youtube.com/watch?v=C6ZszXYPDDw)
+* [DeepSeek, China, OpenAI, NVIDIA, xAI, TSMC, Stargate, and AI Megaclusters](https://www.youtube.com/watch?v=_1f-o0nqpEI)
+
