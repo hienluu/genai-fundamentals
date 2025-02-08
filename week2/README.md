@@ -1,8 +1,10 @@
 ### Week 2 - GenAI Technology
 
 #### Preparation:
-* [Signup for Google Colab via Google account](https://colab.research.google.com/)
-* Get Gemini API key via [Google Studio AI](https://makersuite.google.com/app/apikey)
+* [Google AI Studio](https://aistudio.google.com/prompts/new_chat)
+* Get Gemini API key via [Google Studio AI](https://aistudio.google.com/apikey)
+* [Make sure to have access to Google Colab via Google account](https://colab.research.google.com/)
+* [Groq Cloud - create an account](https://console.groq.com/playground)
 * Create an account at [replicate.com]( https://replicate.com/) 
     * Get Replicate API key at [replicate.com/account/api-tokens](https://replicate.com/account/api-tokens)
 
