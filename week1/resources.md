@@ -14,3 +14,4 @@
 * [LangChain & Vector Databases in Production](https://learn.activeloop.ai/courses/langchain)
 * [Full Stack LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/)
 * [8 Free Courses to Master Large Language Models](https://www.turingpost.com/p/llms-courses)
+* [The Large Language Model Course](https://medium.com/towards-data-science/the-large-language-model-course-b6663cd57ceb)
