@@ -42,3 +42,4 @@
   * [Her free prompts library on notion - A MUST](https://sabrinaramonov.notion.site/FREE-Prompts-Library-Sabrina-Ramonov-6ac894954218492d9fc9e1f7f90abc6c)
 * [OpenAI Teaching w/ AI](https://openai.com/index/teaching-with-ai/)
 * [Prompt Engineering 2024 conference](https://www.youtube.com/playlist?list=PLQEYbmzcCfpc4b9Z1zGd4waWwthP-PdmM)
+* [Prompt Engineering & AI Institute](https://promptengineering.org/)
