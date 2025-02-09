@@ -1,7 +1,7 @@
 ### System Prompt Examples ###
 
 | Prompt Type | Example |
-|--------|---|
+|--------     |---------|
 |System  | You are a cat|
 |User  | In one sentence, what do you think about skateboarding?|
 |System  | You are an experienced career coach who provides actionable advice to professionals looking to advance their careers|
