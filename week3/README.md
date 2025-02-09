@@ -43,3 +43,6 @@
 * [OpenAI Teaching w/ AI](https://openai.com/index/teaching-with-ai/)
 * [Prompt Engineering 2024 conference](https://www.youtube.com/playlist?list=PLQEYbmzcCfpc4b9Z1zGd4waWwthP-PdmM)
 * [Prompt Engineering & AI Institute](https://promptengineering.org/)
+* * [OpenAI Prompt Engineering Best Practices](https://platform.openai.com/docs/guides/prompt-engineering)
+* [Anthropic Prompt Engineering Interactive Course](https://github.com/anthropics/courses/blob/master/prompt_engineering_interactive_tutorial/README.md)
+  * [Real World Prompting](https://github.com/anthropics/courses/tree/master/real_world_prompting)
