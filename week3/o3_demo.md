@@ -7,6 +7,7 @@
 
 #### Tools:
 * [p5 viewer](https://editor.p5js.org/)
+* [OpenAI Code Generator](https://huggingface.co/spaces/akhaliq/anychat)
 
 #### Sources:
 * [OpenAI o3-mini is a BEAST](https://www.youtube.com/watch?v=zRPBovmV8F8)
