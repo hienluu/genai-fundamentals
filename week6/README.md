@@ -13,3 +13,5 @@
 #### AI Agent Related Resources
 * [Building Effective Agents Cookbook - Anthropic](https://github.com/anthropics/anthropic-cookbook/tree/main/patterns/agents)
 * [Pydantic AI](https://ai.pydantic.dev)
+* [A-Z of Building Agents - for workshop](https://docs.google.com/presentation/d/e/2PACX-1vS_7MPYlpNeM3zyF4wulgOm5W3YoFfyGGckwm_P6tWmlkzEhtHpMnUMB3lVlkoMuPozBCGMtWmxfC8y/pub?slide=id.g2e5fecdb4ef_0_0)
+  * [lab](https://mongodb-developer.github.io/ai-agents-lab/)
