@@ -33,8 +33,14 @@ To do a "farduddle" means to jump up and down really fast. An example of a sente
 ```
 
 #### Few-shot Learning:
-
 Example #1:
+The player ran the bases => baseball
+The player hit an ace => tennis
+The player hit a six => cricket
+The player made a slam-dunk =>
+
+
+Example #2:
 
 ```
 butterfly : 나비
@@ -50,7 +56,22 @@ moonlight : 달빛
 teacher :
 ```
 
-Example #2:
+Example #3:
+```
+situation: I'm traveling 60 miles per hour and I see the brake lights on the car in front of me come on
+action: brake
+
+situation: I've just entered the highway from an on-ramp and I'm traveling 30 miles per hour 
+action: accelerate
+
+situation: a deer has darted out in front of my car while I'm traveling 15 miles per hour and the road has a large shoulder
+action: break and swerve
+
+situation: I'm backing out of a parking spot and I see the reverse lights illuminate on the car behind me
+action:
+```
+
+Example #4:
 
 ```
 situation: I'm traveling 60 miles per hour and I see the brake lights on the car in front of me come on
@@ -68,4 +89,15 @@ think: I have reached the speed limit
 action: Let up on the accelerator
 
 situation: I'm backing out of a parking spot and I see the reverse lights illuminate on the car behind me
+```
+#### CoT
+
+```
+To type the numbers from 1 to 500, how many keystrokes are needed?
+
+Let’s think step by step
+```
+
+```
+Imagine you have a lemon, a rock, and a piece of paper. You can use any of these objects to get water from a well that is 10 feet away" How would you do it? Explain step by step
 ```
