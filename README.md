@@ -25,6 +25,9 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [Build a LLM (from scratch)](https://github.com/rasbt/LLMs-from-scratch)
   
 ### News of the week
+#### 02/13/2025
+* [DeepLearning.AI Courses](https://www.deeplearning.ai/courses/)
+
 #### 02/01/2025
 * [Google Gemini 2.0](https://blog.google/technology/google-deepmind/gemini-model-updates-february-2025/)
 * [OpenAI Deep Research](https://openai.com/index/introducing-deep-research/)
