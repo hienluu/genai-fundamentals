@@ -101,3 +101,8 @@ Let’s think step by step
 ```
 Imagine you have a lemon, a rock, and a piece of paper. You can use any of these objects to get water from a well that is 10 feet away" How would you do it? Explain step by step
 ```
+
+#### Coding - https://editor.p5js.org/
+```
+Write a p5.js script that simulates 100 colorful balls bouncing inside a sphere. Each ball should leave behind a fading trail showing its recent path. The container sphere should rotate slowly. Make sure to implement proper collision detection so the balls stay within the sphere
+```
