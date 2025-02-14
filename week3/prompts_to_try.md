@@ -1,12 +1,38 @@
 ### Prompts to Try
 
-#### Asking vs Prompting
+
+#### Zero-shot Learning:
+```
+Generate 10 possible names for my ice cream bar business idea
+```
+```
+Text: i'll bet the video game is a lot more fun than the film.
+
+Sentiment:
+```
+
+#### One-shot Learning:
+```
+Text: Today the weather is fantastic
+Classification: Pos
+
+Text: That shot selection was awful
+Classification:
+```
 
 ```
 Write a poem about a robot falling in love with a sunset, using metaphors related to gears and binary code
 ```
 
-#### Few-shot Leaning:
+```
+"whatpu" is a small, furry animal native to Tanzania. An example of a sentence that uses the word whatpu is:
+
+We were traveling in Africa and we saw these very cute whatpus.
+
+To do a "farduddle" means to jump up and down really fast. An example of a sentence that uses the word farduddle is:
+```
+
+#### Few-shot Learning:
 
 Example #1:
 
