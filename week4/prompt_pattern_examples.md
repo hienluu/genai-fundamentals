@@ -71,12 +71,22 @@
 |Whenever I ask a question, suggest a better question and ask me if I would like use it instead.|
 |Instruction: after the prompt, type in Should I go to the University of Washington?|
 
-| The Alternative Approaches Pattern|
+| The Alternative Approaches Pattern #1|
 |--------|
 |From now on, if there are alternative ways to accomplish the same thing, list the best alternate approaches. Compare and contrast the alternatives and ask me which one I want to use.|
+
+| The Alternative Approaches Pattern #2|
+|--------|
 |For every prompt I give you, If there are alternative ways to word a prompt that I give you, list the best alternate wordings . Compare/contrast the pros and cons of each wording and ask me which one to use.|
+|Follow up with: I work in the marketing department and I need to come up with a marketing campaign for a new product. I want to reach the 40 to 50 years old audience.  One approach I am thinking is to advertise this marketing campaign on TV.|
+
+| The Cognitive Verifier Pattern|
+|--------|
+|When you are asked a question, follow these rules: Generate a number of additional questions that would help more accurately answer the question. Combine the answers to the individual questions to produce the final answer to the overall question.|
+|Follow up with: how many squirrels probably live in my attic?"
 
 ###  Error Identification
-| Error Identification  |
+| Fact Check List Pattern  |
 |--------|
-|Example|
+|Whenever you generate text, generate a set of facts that are contained in the output. The set of facts should be inserted at the end of the output.  The set of facts should be fundamental facts that could undermine the veracity of the output if any of them are incorrect|
+|Follow up with: analyze the 2024 financial performance of Meta|
