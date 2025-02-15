@@ -5,3 +5,5 @@ Discussing prompt patterns - a series of useful prompt engineering techniques th
 #### Resources
 * [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT paper](https://arxiv.org/pdf/2302.11382.pdf)
 * [Prompt Pattern Catalog table](prompt-paper-table.pdf)
+* [OpenAI Prompt Generator](https://platform.openai.com/docs/guides/prompt-generation)
+* [Claude Prompt Generator](https://console.anthropic.com/dashboard)
