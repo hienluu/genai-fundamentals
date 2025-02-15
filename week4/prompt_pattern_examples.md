@@ -24,9 +24,15 @@
 |Explain large language model and how they work for me.  Assume that I am [historical figure name]|
 
 ### Interaction
-| Template |
+| Template #1 |
 |--------|
-|I am going to give you a template for your output. CAPITALIZED WORDS are my placeholders. Fill in the placeholders with your output.<br>Please make sure to preserve the overall formatting of the template.  My template is:<br><br>### Bio: <NAME><br>****ExecutiveSummary:**** <ONE SENTENCE SUMMARY><br>****Full Description:**** <ONE PARAGRAPH SUMMARY.<br>I will now provide the data to format in the next prompt and you will create ten questions using the template. |
+|I am going to give you a template for your output. CAPITALIZED WORDS are my placeholders. Fill in the placeholders with your output.  Please make sure to preserve the overall formatting of the template.  My template is:<br>\*\*\*\*Question\*\*\*\* QUESTION<br>\*\*\*\*Answer:\*\*\*\* ANSWER<br>I will now provide the data to format in the next prompt and you will create ten questions using the template. |
+|Instruction: now go to a wiki page, copy a section of text and paste in the prompt|
+
+| Template #2 |
+|--------|
+|I am going to give you a template for your output. CAPITALIZED WORDS are my placeholders. Fill in the placeholders with your output.<br>Please make sure to preserve the overall formatting of the template.  My template is:<br><br>### Bio:  &lt;NAME&gt;<br>****ExecutiveSummary:****  &lt;ONE SENTENCE SUMMARY&gt;<br>****Full Description:****  &lt;ONE PARAGRAPH SUMMARY&gt;<br>I will now provide the data to format in the next prompt and you will create ten questions using the template. |
+|Instruction: now go to a wiki page of of a famous figure, copy a few paragraphs and paste in the prompt|
 
 | Recipe Pattern |
 |--------|
