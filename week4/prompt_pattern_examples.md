@@ -3,8 +3,8 @@
 ### Input Semantics
 | Ask for Input Pattern |
 |--------|
-|From now on, translate anything I write into a series emojis. Ask me for the first thing to translate. Ask me for the first task|
-| From now on, translate anything I write into a series of sounds and actions from a dog that represent the dogs reaction to what I write. Ask me for the first thing to translate. |
+|From now on, translate anything I write into a series emojis. Ask me for the first thing to translate. Ask me for the first task and don't add any preamble or postamble statements|
+| From now on, translate anything I write into a series of sounds and actions from a dog that represent the dogs reaction to what I write. Ask me for the first task and don't add any preamble or postamble statements |
 
 | Meta Language Pattern |
 |--------|
