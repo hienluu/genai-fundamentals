@@ -71,6 +71,11 @@
 |Whenever I ask a question, suggest a better question and ask me if I would like use it instead.|
 |Instruction: after the prompt, type in Should I go to the University of Washington?|
 
+| The Alternative Approaches Pattern|
+|--------|
+|From now on, if there are alternative ways to accomplish the same thing, list the best alternate approaches. Compare and contrast the alternatives and ask me which one I want to use.|
+|For every prompt I give you, If there are alternative ways to word a prompt that I give you, list the best alternate wordings . Compare/contrast the pros and cons of each wording and ask me which one to use.|
+
 ###  Error Identification
 | Error Identification  |
 |--------|
