@@ -30,6 +30,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [Open WebUI](https://github.com/open-webui/open-webui)
 * [OpenHands](https://github.com/All-Hands-AI/OpenHands)
 * [Open Source Browser Use AI Agent](https://github.com/browser-use/web-ui)
+* [KREA - Image and Video Generator](https://www.krea.ai)
 
 
 #### 02/13/2025
