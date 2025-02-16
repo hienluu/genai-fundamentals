@@ -25,6 +25,13 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [Build a LLM (from scratch)](https://github.com/rasbt/LLMs-from-scratch)
   
 ### News of the week
+#### 02/20/2025
+* [LLM CLI utility](https://llm.datasette.io/en/stable/)
+* [Open WebUI](https://github.com/open-webui/open-webui)
+* [OpenHands](https://github.com/All-Hands-AI/OpenHands)
+* [Open Source Browser Use AI Agent](https://github.com/browser-use/web-ui)
+
+
 #### 02/13/2025
 * [DeepLearning.AI Courses](https://www.deeplearning.ai/courses/)
 
