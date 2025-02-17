@@ -2,7 +2,7 @@
 Discussing prompt patterns - a series of useful prompt engineering techniques that are applicable across a wide range of tasks and interactions with LLMs
 
 #### Fun Exercise
-Try to reverse engineering the prompt to generate the [picture](japanese-picture.png)
+Try to reverse engineer the prompt to generate the [picture](japanese-picture.png)
 
 #### Resources
 * [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT paper](https://arxiv.org/pdf/2302.11382.pdf)
