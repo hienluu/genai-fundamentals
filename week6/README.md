@@ -15,4 +15,4 @@
 * [Pydantic AI](https://ai.pydantic.dev)
 * [A-Z of Building Agents - for workshop](https://docs.google.com/presentation/d/e/2PACX-1vS_7MPYlpNeM3zyF4wulgOm5W3YoFfyGGckwm_P6tWmlkzEhtHpMnUMB3lVlkoMuPozBCGMtWmxfC8y/pub?slide=id.g2e5fecdb4ef_0_0)
   * [lab](https://mongodb-developer.github.io/ai-agents-lab/)
-  * [Nvidia RAG Course](https://learn.nvidia.com/courses/course?course_id=course-v1:DLI+S-FX-15+V1)
+* [Nvidia RAG Course](https://learn.nvidia.com/courses/course?course_id=course-v1:DLI+S-FX-15+V1)
