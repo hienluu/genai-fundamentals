@@ -8,3 +8,4 @@ Discussing prompt patterns - a series of useful prompt engineering techniques th
 * [OpenAI Prompt Generator](https://platform.openai.com/docs/guides/prompt-generation)
 * [Claude Prompt Generator](https://console.anthropic.com/dashboard)
 * [Prompt Patterns: What They Are and 16 You Should Know](https://www.prompthub.us/blog/prompt-patterns-what-they-are-and-16-you-should-know)
+* [Best Practices w/ Reasoning Models](https://www.prompthub.us/blog/prompt-engineering-with-reasoning-models)
