@@ -16,4 +16,4 @@
 * [A-Z of Building Agents - for workshop](https://docs.google.com/presentation/d/e/2PACX-1vS_7MPYlpNeM3zyF4wulgOm5W3YoFfyGGckwm_P6tWmlkzEhtHpMnUMB3lVlkoMuPozBCGMtWmxfC8y/pub?slide=id.g2e5fecdb4ef_0_0)
   * [lab](https://mongodb-developer.github.io/ai-agents-lab/)
 * [Nvidia RAG Course](https://learn.nvidia.com/courses/course?course_id=course-v1:DLI+S-FX-15+V1)
-* [Berkeley - Large Language Model Agents](https://llmagents-learning.org/f24)
+* Berkeley - Large Language Model Agents - [Fall 2024](https://llmagents-learning.org/f24), [Spring 2025](https://llmagents-learning.org/sp25)
