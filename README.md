@@ -26,6 +26,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
   
 ### News of the week
 #### 02/20/2025
+* [Grok 3](https://x.ai/blog/grok-3)
 * [LLM CLI utility](https://llm.datasette.io/en/stable/)
 * [Open WebUI](https://github.com/open-webui/open-webui)
 * [OpenHands](https://github.com/All-Hands-AI/OpenHands)
