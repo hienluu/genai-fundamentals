@@ -5,6 +5,7 @@
 * [Get Google API Key from Google AI Studio](https://aistudio.google.com/app/apikey)
 * [Create an account on Hugging Face](https://huggingface.co/join)
     * [Hugging Face access token](https://huggingface.co/settings/tokens)
+* [Create an account Groq](https://console.groq.com)
 
 #### Step by step instructions for creating HF access token and save it as a secret in Colab
 * See this [resource](https://github.com/hienluu/genai-fundamentals/blob/main/week5/accesskey.md)
