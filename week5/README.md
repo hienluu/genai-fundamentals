@@ -12,11 +12,11 @@
 
 ### Colab Notebooks to go over
 * [Introduction to colab](https://colab.research.google.com/)
-* [Interacting w/ Gemini](https://colab.research.google.com/drive/1IbQg-TB3_DQ5Nt6QyB29UWjPL9k-pebF?usp=sharing)
-* [Interacting w/ models hosted on Replicate.com ](https://colab.research.google.com/drive/1bWP_807B4ILnFOcNO3zZnT1B8966z_fA?usp=sharing)
 * [Getting started with Gradio](https://colab.research.google.com/drive/1tUkgGrODMbjk5Yb_7pV0kGNSyEZ_kDb4?usp=sharing)
-* [Gradio w/ Gemini](https://colab.research.google.com/drive/1u87TeLOoyrzlHvH0vPCuD7FaimulNkAf?usp=sharing)
 * [Gradio chatbot w/ HF models](https://colab.research.google.com/drive/1WLiyB2-zGivpjc1O8YIhcpNfj0b1AQVE?usp=sharing)
+* [Interacting w/ Gemini](https://colab.research.google.com/drive/1IbQg-TB3_DQ5Nt6QyB29UWjPL9k-pebF?usp=sharing)
+* [Gradio w/ Gemini](https://colab.research.google.com/drive/1u87TeLOoyrzlHvH0vPCuD7FaimulNkAf?usp=sharing)
+* [Interacting w/ models hosted on Replicate.com ](https://colab.research.google.com/drive/1bWP_807B4ILnFOcNO3zZnT1B8966z_fA?usp=sharing)
 * [Gradio multimodals example](https://colab.research.google.com/drive/1OmnchldgJfe9Iau4mm7-H_H5kIbz9KF_?usp=sharing)
 
 ### Gradio
@@ -43,3 +43,5 @@
 * [Introduction to Gradio from NLP Course](https://huggingface.co/learn/nlp-course/en/chapter9/1)
 * [Gradio Tutorial - component usage](https://www.machinelearningnuggets.com/gradio-tutorial/)
   * [Gradio Machine Learning Space](https://huggingface.co/spaces/Kamanda/Gradio_machine_learning/tree/main)
+* [🔥Mastering Blocks in Gradio: 2025 Ultimate Guide!](https://www.youtube.com/watch?v=Uv3rLFtCBI4&t=18s)
+* [🔥Master gr.Tab() in Blocks | Gradio 2025](https://www.youtube.com/watch?v=I0B0qEogwq4&t=14s)
