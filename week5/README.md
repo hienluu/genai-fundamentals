@@ -18,8 +18,8 @@
 * [Gradio chatbot w/ HF models](https://colab.research.google.com/drive/1WLiyB2-zGivpjc1O8YIhcpNfj0b1AQVE?usp=sharing)
 * [Interacting w/ Gemini](https://colab.research.google.com/drive/1IbQg-TB3_DQ5Nt6QyB29UWjPL9k-pebF?usp=sharing)
 * [Gradio w/ Gemini](https://colab.research.google.com/drive/1u87TeLOoyrzlHvH0vPCuD7FaimulNkAf?usp=sharing)
-* [Interacting w/ models hosted on Replicate.com ](https://colab.research.google.com/drive/1bWP_807B4ILnFOcNO3zZnT1B8966z_fA?usp=sharing)
 * [Gradio multimodals example](https://colab.research.google.com/drive/1OmnchldgJfe9Iau4mm7-H_H5kIbz9KF_?usp=sharing)
+* [Deprecated: Interacting w/ models hosted on Replicate.com ](https://colab.research.google.com/drive/1bWP_807B4ILnFOcNO3zZnT1B8966z_fA?usp=sharing)
 
 ### Gradio
 * [Gradio Quickstart](https://www.gradio.app/guides/quickstart)
