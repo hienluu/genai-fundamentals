@@ -25,6 +25,9 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [Build a LLM (from scratch)](https://github.com/rasbt/LLMs-from-scratch)
   
 ### News of the week
+#### 02/27/2025
+* [Microsoft’s Majorana 1 - the world’s first quantum chip](https://news.microsoft.com/source/features/innovation/microsofts-majorana-1-chip-carves-new-path-for-quantum-computing/?)
+
 #### 02/20/2025
 * [Grok 3](https://x.ai/blog/grok-3)
 * [LLM CLI utility](https://llm.datasette.io/en/stable/)
