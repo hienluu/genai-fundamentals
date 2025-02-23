@@ -54,3 +54,4 @@
 * [OpenAI Gradio library](https://github.com/gradio-app/openai-gradio)
 * [Gemini OpenAI Compatibility](https://ai.google.dev/gemini-api/docs/openai)
 * [Gradio Demo github repo](https://github.com/gradio-app/gradio/tree/main/demo)
+* [Gradio Theme Gallery](https://huggingface.co/spaces/gradio/theme-gallery)
