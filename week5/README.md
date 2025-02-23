@@ -16,6 +16,9 @@
 * [Introduction to colab](https://colab.research.google.com/)
 * [Getting started with Gradio](https://colab.research.google.com/drive/1tUkgGrODMbjk5Yb_7pV0kGNSyEZ_kDb4?usp=sharing)
 * [Gradio chatbot w/ HF models](https://colab.research.google.com/drive/1WLiyB2-zGivpjc1O8YIhcpNfj0b1AQVE?usp=sharing)
+* [Chatbot Gradio exercise](https://colab.research.google.com/drive/1bjOOI5sNbP10hclqdyKWCv8_TcxFS7Q7?usp=sharing)
+
+### Extra stuff
 * [Interacting w/ Gemini](https://colab.research.google.com/drive/1IbQg-TB3_DQ5Nt6QyB29UWjPL9k-pebF?usp=sharing)
 * [Gradio w/ Gemini](https://colab.research.google.com/drive/1u87TeLOoyrzlHvH0vPCuD7FaimulNkAf?usp=sharing)
 * [Gradio multimodals example](https://colab.research.google.com/drive/1OmnchldgJfe9Iau4mm7-H_H5kIbz9KF_?usp=sharing)
@@ -49,3 +52,4 @@
 * [🔥Master gr.Tab() in Blocks | Gradio 2025](https://www.youtube.com/watch?v=I0B0qEogwq4&t=14s)
 * [Building an LLM Application with Gradio](https://www.youtube.com/watch?v=ABNxNFPqIGQ)
 * [Open Gradio library](https://github.com/gradio-app/openai-gradio)
+* [Gemini OpenAI Compatibility](https://ai.google.dev/gemini-api/docs/openai)
