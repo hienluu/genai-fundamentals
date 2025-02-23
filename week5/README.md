@@ -48,3 +48,4 @@
 * [🔥Mastering Blocks in Gradio: 2025 Ultimate Guide!](https://www.youtube.com/watch?v=Uv3rLFtCBI4&t=18s)
 * [🔥Master gr.Tab() in Blocks | Gradio 2025](https://www.youtube.com/watch?v=I0B0qEogwq4&t=14s)
 * [Building an LLM Application with Gradio](https://www.youtube.com/watch?v=ABNxNFPqIGQ)
+* [Open Gradio library](https://github.com/gradio-app/openai-gradio)
