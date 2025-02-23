@@ -58,3 +58,14 @@ Copy the code below and paste below the additional input area after llm_provider
 ```
 
 Re-launch the chatbot Gradio application by re-run the cell
+
+##### Step 4 - replace the random_response with the following
+```
+def random_response(message, history, system_prompt, llm_provider, temperature, max_tokens):
+    print(f"system_prompt: {system_prompt}")
+    print(f"llm_provider: {llm_provider}")
+    print(f"temperature: {temperature}")
+    print(f"max_tokens: {max_tokens}")
+    return random.choice(["I understand", "You are kidding right?"])
+```
+Re-run the cell and then re-run the chatbot app cell
