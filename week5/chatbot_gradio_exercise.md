@@ -1,4 +1,4 @@
-### Chatbot Gradio Exercise
+## Chatbot Gradio Exercise
 In this exercise, we will build a chatbot from the ground up, step-by-step
 
 #### Prerequisites
