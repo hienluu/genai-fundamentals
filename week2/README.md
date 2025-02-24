@@ -35,4 +35,6 @@
 * [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
 * [Transformers demystified: how do ChatGPT, GPT-4, LLaMa work?](https://www.youtube.com/watch?v=C6ZszXYPDDw)
 * [DeepSeek, China, OpenAI, NVIDIA, xAI, TSMC, Stargate, and AI Megaclusters](https://www.youtube.com/watch?v=_1f-o0nqpEI)
+* [The Large Language Model Course](https://towardsdatascience.com/the-large-language-model-course-b6663cd57ceb/)
+
 
