@@ -19,3 +19,4 @@
 * Berkeley - Large Language Model Agents - [Fall 2024](https://llmagents-learning.org/f24), [Spring 2025](https://llmagents-learning.org/sp25)
 * [AI Agents Course for Beginner from Microsoft](https://github.com/microsoft/ai-agents-for-beginners)
 * [GenAI Agents: Comprehensive Repository for Development and Implementation w/ LangChain and Pydantic](https://github.com/NirDiamant/GenAI_Agents)
+* [RAG Techniques](https://github.com/NirDiamant/RAG_Techniques)
