@@ -11,4 +11,4 @@ Try to reverse engineer the prompt to generate the [picture](japanese-picture.pn
 * [Claude Prompt Generator](https://console.anthropic.com/dashboard)
 * [Prompt Patterns: What They Are and 16 You Should Know](https://www.prompthub.us/blog/prompt-patterns-what-they-are-and-16-you-should-know)
 * [Best Practices w/ Reasoning Models](https://www.prompthub.us/blog/prompt-engineering-with-reasoning-models)
-* [MetaGPT - The Multi-Agent Framework https://mgx.dev/](https://github.com/geekan/MetaGPT)
+* [MetaGPT - The Multi-Agent Framework mgx.dev](https://github.com/geekan/MetaGPT)
