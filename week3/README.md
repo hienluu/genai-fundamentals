@@ -47,3 +47,4 @@
 * [Anthropic Prompt Engineering Interactive Course](https://github.com/anthropics/courses/blob/master/prompt_engineering_interactive_tutorial/README.md)
   * [Real World Prompting](https://github.com/anthropics/courses/tree/master/real_world_prompting)
 * [Prompt Engineering Papers](https://www.promptingguide.ai/papers)
+* [Prompt Engineering Techniques: Comprehensive good one](https://github.com/NirDiamant/Prompt_Engineering)
