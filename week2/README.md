@@ -36,5 +36,7 @@
 * [Transformers demystified: how do ChatGPT, GPT-4, LLaMa work?](https://www.youtube.com/watch?v=C6ZszXYPDDw)
 * [DeepSeek, China, OpenAI, NVIDIA, xAI, TSMC, Stargate, and AI Megaclusters](https://www.youtube.com/watch?v=_1f-o0nqpEI)
 * [The Large Language Model Course](https://towardsdatascience.com/the-large-language-model-course-b6663cd57ceb/)
+* [Nomaic Embedding Models](https://www.nomic.ai/blog/posts/nomic-embed-text-v1)
+   * [Nomaic HF model card](https://huggingface.co/nomic-ai/nomic-embed-text-v1.5) 
 
 
