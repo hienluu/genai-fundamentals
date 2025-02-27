@@ -31,6 +31,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [Gemini Code Assist](https://blog.google/technology/developers/gemini-code-assist-free/)
 * [5-Day Gen AI Intensive Course with Google](https://rsvp.withgoogle.com/events/google-generative-ai-intensive_2025q1)
 * [Github Copilot](https://github.com/copilot)
+* [Introduction to GPT 4.5](https://www.youtube.com/watch?v=cfRYp0nItZ8)
 
 #### 02/20/2025
 * [Grok 3](https://x.ai/blog/grok-3)
