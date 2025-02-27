@@ -29,6 +29,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [Microsoft’s Majorana 1 - the world’s first quantum chip](https://news.microsoft.com/source/features/innovation/microsofts-majorana-1-chip-carves-new-path-for-quantum-computing/?)
 * [Anthropic introduces Claude 3.7 Sonnet - excel at coding and reasoning tasks](https://www.anthropic.com/news/claude-3-7-sonnet)
 * [Gemini Code Assist](https://blog.google/technology/developers/gemini-code-assist-free/)
+* [5-Day Gen AI Intensive Course with Google](https://rsvp.withgoogle.com/events/google-generative-ai-intensive_2025q1)
 
 #### 02/20/2025
 * [Grok 3](https://x.ai/blog/grok-3)
