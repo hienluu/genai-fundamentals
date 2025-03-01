@@ -13,4 +13,4 @@ Try to reverse engineer the prompt to generate the [picture](japanese-picture.pn
 * [Best Practices w/ Reasoning Models](https://www.prompthub.us/blog/prompt-engineering-with-reasoning-models)
 * [MetaGPT - The Multi-Agent Framework mgx.dev](https://github.com/geekan/MetaGPT)
 * [Enhance your prompts with meta prompting](https://cookbook.openai.com/examples/enhance_your_prompts_with_meta_prompting)
-  *   [github page](https://github.com/openai/openai-cookbook/blob/main/examples/Enhance_your_prompts_with_meta_prompting.ipynb)
+  *   [github page](https://github.com/openai/openai-cookbook/blob/main/examples/Enhance_your_prompts_with_meta_prompting.ipynb) - very good resource to play around with
