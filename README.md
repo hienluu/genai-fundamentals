@@ -25,6 +25,10 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [Build a LLM (from scratch)](https://github.com/rasbt/LLMs-from-scratch)
   
 ### News of the week
+#### 03/10/2025
+* [MSTY - Local AI app](https://msty.app/)
+
+
 #### 02/27/2025
 * [Microsoft’s Majorana 1 - the world’s first quantum chip](https://news.microsoft.com/source/features/innovation/microsofts-majorana-1-chip-carves-new-path-for-quantum-computing/?)
 * [Anthropic introduces Claude 3.7 Sonnet - excel at coding and reasoning tasks](https://www.anthropic.com/news/claude-3-7-sonnet)
