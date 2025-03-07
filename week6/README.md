@@ -20,4 +20,5 @@
 * [AI Agents Course for Beginner from Microsoft](https://github.com/microsoft/ai-agents-for-beginners)
 * [GenAI Agents: Comprehensive Repository for Development and Implementation w/ LangChain and Pydantic](https://github.com/NirDiamant/GenAI_Agents)
 * [RAG Techniques](https://github.com/NirDiamant/RAG_Techniques)
-* [HuggingFace + Langchain | run 1000+ FREE AI models[https://www.youtube.com/watch?v=1h6lfzJ0wZw]
+* [HuggingFace + Langchain | run 1000+ FREE AI models](https://www.youtube.com/watch?v=1h6lfzJ0wZw)
+* [AI Engineering](https://www.newsletter.swirlai.com/p/what-is-ai-engineering)
