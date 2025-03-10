@@ -10,3 +10,4 @@
 * [Building Effective Agents by Claude](https://www.anthropic.com/engineering/building-effective-agents)
   * [Building Effective Agents Cookbook](https://github.com/anthropics/anthropic-cookbook/tree/main/patterns/agents)
 * [Hugging Face AI Agent Course](https://huggingface.co/learn/agents-course/en/unit0/introduction)
+* [Flowise - Build LLM Apps Easily](https://github.com/FlowiseAI/Flowise)
