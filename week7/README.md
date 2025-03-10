@@ -2,6 +2,8 @@
 
 
 ### Resources
+* [Building Effective Agents Cookbook - Anthropic](https://github.com/anthropics/anthropic-cookbook/tree/main/patterns/agents)
+* [Pydantic AI](https://ai.pydantic.dev)
 * Agent Engineering 2025 New York videos
   *  [Part 1 - leadership](https://www.youtube.com/watch?v=L89GzWEILkM)
   *  [Part 2 - engineering](https://www.youtube.com/watch?v=D7BzTxVVMuw)
@@ -15,3 +17,9 @@
  * [Agentic RAG: Make Chatting with Docs Smarter](https://www.youtube.com/watch?v=QQAkXHRJcZg&list=PLVEEucA9MYhOu89CX8H3MBZqayTbcCTMr&index=32&t=391s)
    *  [colab](https://colab.research.google.com/drive/1-cTexfgPITZ6jkSLHsP7uObdfE1rfDxu?usp=sharing)
  * [How I finally got agentic RAG to work right](https://vectorize.io/how-i-finally-got-agentic-rag-to-work-right/)
+ * [AI Agents Course for Beginner from Microsoft](https://github.com/microsoft/ai-agents-for-beginners)
+* [GenAI Agents: Comprehensive Repository for Development and Implementation w/ LangChain and Pydantic](https://github.com/NirDiamant/GenAI_Agents)
+* Courses or Workshops
+  * Berkeley - Large Language Model Agents - [Fall 2024](https://llmagents-learning.org/f24), [Spring 2025](https://llmagents-learning.org/sp25)
+  * [A-Z of Building Agents - for workshop](https://docs.google.com/presentation/d/e/2PACX-1vS_7MPYlpNeM3zyF4wulgOm5W3YoFfyGGckwm_P6tWmlkzEhtHpMnUMB3lVlkoMuPozBCGMtWmxfC8y/pub?slide=id.g2e5fecdb4ef_0_0)
+  * [lab](https://mongodb-developer.github.io/ai-agents-lab/)
