@@ -1,4 +1,4 @@
-### Week 6 - Generative AI Applications with RAG or AI Agents
+### Week 6 - Generative AI Applications with RAG
 
 #### Preparation:
 * [simple-rag-langchain colab notebook](https://colab.research.google.com/drive/11ylutoVl16mZ6fJYIG2FKoBUdLyyhbu9?usp=sharing)
@@ -18,4 +18,5 @@
 * [AI Engineering](https://www.newsletter.swirlai.com/p/what-is-ai-engineering)
 * [Introducing Contextual Retrieval](https://www.anthropic.com/news/contextual-retrieval)
   * Add the context of each chunk to the beginning of the the chunk
+  * [Retrieval Augmented Generation with Contextual Embeddings - github](https://github.com/anthropics/anthropic-cookbook/tree/main/skills/contextual-embeddings)
   * [The Best RAG Technique Yet? Anthropic’s Contextual Retrieval Explained!](https://www.youtube.com/watch?v=tmiBae2goJM)
