@@ -9,9 +9,7 @@
 * [RAG from Scratch](https://www.youtube.com/playlist?list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x)
 * [Q&A w/ LangChain](https://python.langchain.com/docs/use_cases/question_answering/)
 * [How to Build a RAG-Powered Chatbot with Chat, Embed, and Rerank](https://txt.cohere.com/rag-chatbot/)
-
-#### AI Agent Related Resources
-
+* [Chroma DB Tutorial](https://www.datacamp.com/tutorial/chromadb-tutorial-step-by-step-guide)
 * [Nvidia RAG Course](https://learn.nvidia.com/courses/course?course_id=course-v1:DLI+S-FX-15+V1)
 * [RAG Techniques - a good one to checkout](https://github.com/NirDiamant/RAG_Techniques)
 * [HuggingFace + Langchain | run 1000+ FREE AI models](https://www.youtube.com/watch?v=1h6lfzJ0wZw)
