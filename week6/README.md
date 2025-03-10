@@ -13,7 +13,6 @@
 #### AI Agent Related Resources
 
 * [Nvidia RAG Course](https://learn.nvidia.com/courses/course?course_id=course-v1:DLI+S-FX-15+V1)
-* Berkeley - Large Language Model Agents - [Fall 2024](https://llmagents-learning.org/f24), [Spring 2025](https://llmagents-learning.org/sp25)
 * [RAG Techniques - a good one to checkout](https://github.com/NirDiamant/RAG_Techniques)
 * [HuggingFace + Langchain | run 1000+ FREE AI models](https://www.youtube.com/watch?v=1h6lfzJ0wZw)
 * [AI Engineering](https://www.newsletter.swirlai.com/p/what-is-ai-engineering)
