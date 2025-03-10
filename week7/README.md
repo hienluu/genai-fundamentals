@@ -11,3 +11,5 @@
   * [Building Effective Agents Cookbook](https://github.com/anthropics/anthropic-cookbook/tree/main/patterns/agents)
 * [Hugging Face AI Agent Course](https://huggingface.co/learn/agents-course/en/unit0/introduction)
 * [Flowise - Build LLM Apps Easily](https://github.com/FlowiseAI/Flowise)
+* [Agentic RAG: Make Chatting with Docs Smarter](https://www.youtube.com/watch?v=QQAkXHRJcZg&list=PLVEEucA9MYhOu89CX8H3MBZqayTbcCTMr&index=32&t=391s)
+  *  [colab](https://colab.research.google.com/drive/1-cTexfgPITZ6jkSLHsP7uObdfE1rfDxu?usp=sharing)
