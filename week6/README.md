@@ -18,3 +18,4 @@
   * Add the context of each chunk to the beginning of the the chunk
   * [Retrieval Augmented Generation with Contextual Embeddings - github](https://github.com/anthropics/anthropic-cookbook/tree/main/skills/contextual-embeddings)
   * [The Best RAG Technique Yet? Anthropic’s Contextual Retrieval Explained!](https://www.youtube.com/watch?v=tmiBae2goJM)
+* [Crawl4ai quickstart colab](https://colab.research.google.com/drive/1SgRPrByQLzjRfwoRNq1wSGE9nYY_EE8C?usp=sharing#scrollTo=003376f3)
