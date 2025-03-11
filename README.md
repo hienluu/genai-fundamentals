@@ -33,6 +33,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [Manus - the General AI Agent](https://www.youtube.com/watch?v=K27diMbCsuw&t=1s)
 * [Open AI Operator](https://openai.com/index/introducing-operator/)
 * [Open AI Deep Research](https://openai.com/index/introducing-deep-research/)
+* [Microsoft Generative AI Course](https://github.com/microsoft/generative-ai-for-beginners)
 
 
 #### 02/27/2025
