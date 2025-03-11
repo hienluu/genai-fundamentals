@@ -23,10 +23,16 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 ### Books
 * [Hands On LLMs](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models?tab=readme-ov-file)
 * [Build a LLM (from scratch)](https://github.com/rasbt/LLMs-from-scratch)
+
   
 ### News of the week
+
 #### 03/10/2025
 * [MSTY - Local AI app](https://msty.app/)
+  * [manus.im](https://manus.im/)
+* [Manus - the General AI Agent](https://www.youtube.com/watch?v=K27diMbCsuw&t=1s)
+* [Open AI Operator](https://openai.com/index/introducing-operator/)
+* [Open AI Deep Research](https://openai.com/index/introducing-deep-research/)
 
 
 #### 02/27/2025
