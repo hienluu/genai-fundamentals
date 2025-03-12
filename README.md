@@ -35,6 +35,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [Open AI Deep Research](https://openai.com/index/introducing-deep-research/)
 * [Microsoft Generative AI Course](https://learn.microsoft.com/en-us/collections/zpy7c8zmq6ky0z?WT.mc_id=academic-105485-koreyst)
   * [Their github repo](https://github.com/microsoft/generative-ai-for-beginners)
+* [Kaggle - 5 days GenAI Intensive Course with Google](https://rsvp.withgoogle.com/events/google-generative-ai-intensive_2025q1)
 
 
 #### 02/27/2025
