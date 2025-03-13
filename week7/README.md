@@ -23,3 +23,4 @@
   * Berkeley - Large Language Model Agents - [Fall 2024](https://llmagents-learning.org/f24), [Spring 2025](https://llmagents-learning.org/sp25)
   * [A-Z of Building Agents - for workshop](https://docs.google.com/presentation/d/e/2PACX-1vS_7MPYlpNeM3zyF4wulgOm5W3YoFfyGGckwm_P6tWmlkzEhtHpMnUMB3lVlkoMuPozBCGMtWmxfC8y/pub?slide=id.g2e5fecdb4ef_0_0)
   * [lab](https://mongodb-developer.github.io/ai-agents-lab/)
+  * [Datacamp - Designing Agentic Systems with LangChain](https://campus.datacamp.com/courses/designing-agentic-systems-with-langchain/building-chatbots-with-langgraph?ex=1)
