@@ -1,8 +1,9 @@
 ### Week 6 - Generative AI Applications with RAG
 
 #### Preparation:
-* [simple-rag-langchain colab notebook](https://colab.research.google.com/drive/11ylutoVl16mZ6fJYIG2FKoBUdLyyhbu9?usp=sharing)
-* [simge-rag-pdf-langchain colab notebook](https://colab.research.google.com/drive/1M3eIZ6Wyvdn-2VwxZ06GbQQtmvrzGFBj#scrollTo=I3mm7zmbtAs8)
+* [basic-grag-gradio](https://colab.research.google.com/drive/1NzWjmbA4GnRCc0jCQUbq3fO-4_YbJuD0#scrollTo=Js532Mp51BBh)
+* [old - simple-rag-langchain colab notebook](https://colab.research.google.com/drive/11ylutoVl16mZ6fJYIG2FKoBUdLyyhbu9?usp=sharing)
+* [old- simge-rag-pdf-langchain colab notebook](https://colab.research.google.com/drive/1M3eIZ6Wyvdn-2VwxZ06GbQQtmvrzGFBj#scrollTo=I3mm7zmbtAs8)
 
 #### RAG Related Resources
 * [LangChain](https://www.langchain.com/)
