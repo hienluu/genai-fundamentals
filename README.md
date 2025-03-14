@@ -36,6 +36,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [Microsoft Generative AI Course](https://learn.microsoft.com/en-us/collections/zpy7c8zmq6ky0z?WT.mc_id=academic-105485-koreyst)
   * [Their github repo](https://github.com/microsoft/generative-ai-for-beginners)
 * [Kaggle - 5 days GenAI Intensive Course with Google](https://rsvp.withgoogle.com/events/google-generative-ai-intensive_2025q1)
+* [Google Gemma 3](https://blog.google/technology/developers/gemma-3/)
 * [A Lutheran church in Finland last week held a service almost entirely prepared by artificial intelligence tools](https://apnews.com/article/finland-lutheran-church-artificial-intelligence-64135cc5e58578a89dcbaf0c227d9e3e)
 
 
