@@ -48,3 +48,4 @@
   * [Real World Prompting](https://github.com/anthropics/courses/tree/master/real_world_prompting)
 * [Prompt Engineering Papers](https://www.promptingguide.ai/papers)
 * [Prompt Engineering Techniques: Comprehensive good one](https://github.com/NirDiamant/Prompt_Engineering)
+* [Notion - prompt notes](https://github.com/swyxio/ai-notes/blob/main/Resources/Notion%20AI%20Prompts.md)
