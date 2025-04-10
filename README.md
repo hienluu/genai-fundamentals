@@ -23,6 +23,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 ### Books
 * [Hands On LLMs](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models?tab=readme-ov-file)
 * [Build a LLM (from scratch)](https://github.com/rasbt/LLMs-from-scratch)
+* [The Next Breakthrough In AI Agents Is Here](https://www.youtube.com/watch?v=JOYSDqJdiro)
 
   
 ### News of the week
