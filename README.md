@@ -27,6 +27,10 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
   
 ### News of the week
 
+#### 04/07/2025
+* [Google Agent SDK](https://github.com/google/adk-python?tab=readme-ov-file)
+* [Lllam 4 release](https://ai.meta.com/blog/llama-4-multimodal-intelligence/)
+
 #### 03/10/2025
 * [MSTY - Local AI app](https://msty.app/)
   * [manus.im](https://manus.im/)
