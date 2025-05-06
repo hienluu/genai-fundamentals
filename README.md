@@ -28,6 +28,9 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
   
 ### News of the week
 
+### 05/06/2025
+* [OpenAI Forum - good content](https://forum.openai.com/public/content)
+
 #### 04/07/2025
 * [Google Agent SDK](https://github.com/google/adk-python?tab=readme-ov-file)
 * [Lllam 4 release - MOE](https://ai.meta.com/blog/llama-4-multimodal-intelligence/)
