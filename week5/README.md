@@ -56,3 +56,4 @@
 * [Gemini OpenAI Compatibility](https://ai.google.dev/gemini-api/docs/openai)
 * [Gradio Demo github repo](https://github.com/gradio-app/gradio/tree/main/demo)
 * [Gradio Theme Gallery](https://huggingface.co/spaces/gradio/theme-gallery)
+* [Better RAG with Active Retrieval Augmented Generation FLARE](https://blog.lancedb.com/better-rag-with-active-retrieval-augmented-generation-flare-3b66646e2a9f/) - has a good langchain FLARE example
