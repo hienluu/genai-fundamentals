@@ -59,3 +59,4 @@
 * [Better RAG with Active Retrieval Augmented Generation FLARE](https://blog.lancedb.com/better-rag-with-active-retrieval-augmented-generation-flare-3b66646e2a9f/) - has a good langchain FLARE example
    * [from LanceDB Google Colab](https://colab.research.google.com/github/lancedb/vectordb-recipes/blob/main/examples/better-rag-FLAIR/main.ipynb)
 * [Agentic RAG from LanceDB](https://lancedb.github.io/lancedb/rag/agentic_rag/)
+* [LLM Course - fundamentals, scientist, engineer](https://github.com/mlabonne/llm-course?tab=readme-ov-file)
