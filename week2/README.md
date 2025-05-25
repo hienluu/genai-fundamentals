@@ -41,5 +41,6 @@
    * [Nomaic HF model card](https://huggingface.co/nomic-ai/nomic-embed-text-v1.5)
 * [GPT Internals Masterclass - with Ishan Anand](https://www.youtube.com/watch?v=CHfjQf0A-ws)
    * Has good details about the inner workings and various useful resources
+* [Building software on top of Large Language Models](https://github.com/simonw/building-with-llms-pycon-2025?tab=readme-ov-file)
 
 
