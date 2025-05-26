@@ -27,6 +27,13 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 
   
 ### News of the week
+05/26/2005
+* Coding Agents
+  * [Claude Code](https://docs.anthropic.com/en/docs/claude-code/overview)
+  * [Open AI Codex](https://openai.com/codex/)
+  * [Google Jules](https://blog.google/technology/google-labs/jules/)
+* [Claude Opus and Claude 4: coding & complex, long-running tasks](https://www.anthropic.com/news/claude-4)
+* [Google Gemini 2.5 Pro & 2.5 Flash](https://blog.google/technology/google-deepmind/google-gemini-updates-io-2025/#performance)
 
 ### 05/06/2025
 * [OpenAI Forum - good content](https://forum.openai.com/public/content)
