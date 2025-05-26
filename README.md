@@ -33,7 +33,10 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
   * [Open AI Codex](https://openai.com/codex/)
   * [Google Jules](https://blog.google/technology/google-labs/jules/)
 * [Claude Opus and Claude 4: coding & complex, long-running tasks](https://www.anthropic.com/news/claude-4)
-* [Google Gemini 2.5 Pro & 2.5 Flash](https://blog.google/technology/google-deepmind/google-gemini-updates-io-2025/#performance)
+* Google I/O 2025
+  * [Google Gemini 2.5 Pro & 2.5 Flash](https://blog.google/technology/google-deepmind/google-gemini-updates-io-2025/#performance)
+  * [Google Beam - AI-first 3D video communication platform](https://blog.google/technology/research/project-starline-google-beam-update/)
+  * [Google Veo 3 - SOTA AI video generator](https://gemini.google/overview/video-generation/?hl=en)
 
 ### 05/06/2025
 * [OpenAI Forum - good content](https://forum.openai.com/home)
