@@ -36,7 +36,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [Google Gemini 2.5 Pro & 2.5 Flash](https://blog.google/technology/google-deepmind/google-gemini-updates-io-2025/#performance)
 
 ### 05/06/2025
-* [OpenAI Forum - good content](forum.openai.com/home)
+* [OpenAI Forum - good content](https://forum.openai.com/home)
 
 #### 04/07/2025
 * [Google Agent SDK](https://github.com/google/adk-python?tab=readme-ov-file)
