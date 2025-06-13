@@ -50,3 +50,4 @@
 * [Prompt Engineering Techniques: Comprehensive good one](https://github.com/NirDiamant/Prompt_Engineering)
 * [Notion - prompt notes](https://github.com/swyxio/ai-notes/blob/main/Resources/Notion%20AI%20Prompts.md)
 * [Public Prompts](https://publicprompts.art/)
+* [How I Use ChatGPT to Write Killer LinkedIn Posts]{https://medium.com/prompt-engine/how-i-use-chatgpt-to-write-killer-linkedin-posts-81578b481d38}
