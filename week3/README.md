@@ -22,6 +22,7 @@
 * Have fun with [Chatzaroni](https://huggingface.co/spaces/hienluu/chatzaroni) - a Hugging Face space
 
 #### Resources
+* [6 Techniques for Effective Prompt Engineering - Anthropic](https://www-cdn.anthropic.com/62df988c101af71291b06843b63d39bbd600bed8.pdf)
 * [ChainBrain AI - Advanced ChatGPT Prompts*](https://www.chainbrainai.com/)
 * [LearnPrompt.org - a list of curated prompt examples, verbs, tone of voice](https://www.learnprompt.org/)
 * [PromptBase](https://promptbase.com/)
@@ -50,4 +51,4 @@
 * [Prompt Engineering Techniques: Comprehensive good one](https://github.com/NirDiamant/Prompt_Engineering)
 * [Notion - prompt notes](https://github.com/swyxio/ai-notes/blob/main/Resources/Notion%20AI%20Prompts.md)
 * [Public Prompts](https://publicprompts.art/)
-* [How I Use ChatGPT to Write Killer LinkedIn Posts]{https://medium.com/prompt-engine/how-i-use-chatgpt-to-write-killer-linkedin-posts-81578b481d38}
+* [How I Use ChatGPT to Write Killer LinkedIn Posts](https://medium.com/prompt-engine/how-i-use-chatgpt-to-write-killer-linkedin-posts-81578b481d38)
