@@ -27,6 +27,10 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 
   
 ### News of the week
+06/16/2025
+* [Anthropic - AI Fluencey](https://www.anthropic.com/ai-fluency)
+* 
+
 05/26/2005
 * Coding Agents
   * [Claude Code](https://docs.anthropic.com/en/docs/claude-code/overview)
