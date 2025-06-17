@@ -2,7 +2,10 @@
 
 
 ### Resources
-* [Google Agent SDK](https://github.com/google/adk-python?tab=readme-ov-file)
+* [Anthropic - How we built our multi-agent research system](https://www.anthropic.com/engineering/built-multi-agent-research-system)
+* Agent SDKs
+   * [OpenAI Agents SDK](https://openai.github.io/openai-agents-python/)
+   * [Google Agent SDK](https://github.com/google/adk-python?tab=readme-ov-file)
 * [Building Effective Agents Cookbook - Anthropic](https://github.com/anthropics/anthropic-cookbook/tree/main/patterns/agents)
 * [Pydantic AI](https://ai.pydantic.dev)
 * Agent Engineering 2025 New York videos
