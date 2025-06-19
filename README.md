@@ -29,7 +29,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 ### News of the week
 06/16/2025
 * [Anthropic - AI Fluencey](https://www.anthropic.com/ai-fluency)
-* 
+* [Gemine 2.5 stable version release w/ adaptive thinking](https://developers.googleblog.com/en/gemini-2-5-thinking-model-updates/)
 
 05/26/2005
 * Coding Agents
