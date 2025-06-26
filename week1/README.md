@@ -82,5 +82,12 @@
 ### Prompt Examples for image generation
 [Stable Diffusion Prompts](https://huggingface.co/datasets/Gustavosta/Stable-Diffusion-Prompts)
 
+
+### Courses
+* [GenAI Essentials – Full Course for Beginners by freeCodeCamp.org](https://www.youtube.com/watch?v=nJ25yl34Uqw)
+* [DeepLearning.ai - short courses for beginners](https://www.deeplearning.ai/courses/?courses_date_desc%5BrefinementList%5D%5Bcourse_type%5D%5B0%5D=Short%20Courses&courses_date_desc%5BrefinementList%5D%5Bskill_level%5D%5B0%5D=Beginner&courses_date_desc%5Bpage%5D=2)
+* [Coursera - Google AI Essentials Specialization](https://www.coursera.org/specializations/ai-essentials-google)
+* [Microsoft - Introduction to generative AI concepts](https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/)
+
 ### Resources
 [Resources](./resources.md)
