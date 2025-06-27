@@ -28,6 +28,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
   
 ### News of the week
 06/23/2025
+* [Claud - Turn ideas into interactive AI-powered apps](https://www.anthropic.com/news/build-artifacts)
 * [OmniGen2 - text to image editor](https://github.com/VectorSpaceLab/OmniGen2)
   * [youtube video](https://www.youtube.com/watch?v=lqh9LUddKnM)
 
