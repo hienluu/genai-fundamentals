@@ -22,7 +22,8 @@
 
 
 #### Resources:
-
+* [3Blue1Brown - Neural Network youtube series](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+* [A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html)
 * [Building LLMs from the Ground Up by Sebastian](https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up)
 * [Hugging Face - LLM model hub](https://huggingface.co/) - take a toour
 * [Hugging Face chat](https://huggingface.co/chat/)
