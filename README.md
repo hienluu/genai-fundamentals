@@ -27,6 +27,10 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 
   
 ### News of the week
+07/07/2025
+* [How People Use Claude for Support, Advice, and Companionship](https://www.anthropic.com/news/how-people-use-claude-for-support-advice-and-companionship)
+* [A podcast about how to apply AI efficiently to your work](https://www.beyondtheprompt.ai/)
+
 06/30/2025
 * [Build real web apps fast using natural language with Lovable](https://lovable.dev/)
 * [Build and share AI-powered apps with Claude](https://www.anthropic.com/news/claude-powered-artifacts)
