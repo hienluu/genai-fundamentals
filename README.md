@@ -28,6 +28,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
   
 ### News of the week
 07/07/2025
+* [Fei-Fei Li: Spatial Intelligence is the Next Frontier in AI](https://www.youtube.com/watch?v=_PioN-CpOP0)
 * [How People Use Claude for Support, Advice, and Companionship](https://www.anthropic.com/news/how-people-use-claude-for-support-advice-and-companionship)
 * [A podcast about how to apply AI efficiently to your work](https://www.beyondtheprompt.ai/)
 
