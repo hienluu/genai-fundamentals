@@ -28,11 +28,13 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
   
 ### News of the week
 07/07/2025
+* [Claude Courses](https://anthropic.skilljar.com/)
 * [Fei-Fei Li: Spatial Intelligence is the Next Frontier in AI](https://www.youtube.com/watch?v=_PioN-CpOP0)
 * [How People Use Claude for Support, Advice, and Companionship](https://www.anthropic.com/news/how-people-use-claude-for-support-advice-and-companionship)
 * [A podcast about how to apply AI efficiently to your work](https://www.beyondtheprompt.ai/)
 
 06/30/2025
+* [Google Gemini CLI - your open-source AI agent](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/)
 * [Build real web apps fast using natural language with Lovable](https://lovable.dev/)
 * [Build and share AI-powered apps with Claude](https://www.anthropic.com/news/claude-powered-artifacts)
 
