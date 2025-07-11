@@ -27,6 +27,9 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 
   
 ### News of the week
+07/17/2025
+* [Mathematics of LLMs, Explained in Everyday Language](https://www.youtube.com/watch?v=1WHaFWMMXLI)
+
 07/07/2025
 * [Grok 4 release](https://x.com/xai/status/1943158495588815072)
 * [Claude Courses](https://anthropic.skilljar.com/)
