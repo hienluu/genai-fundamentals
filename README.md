@@ -29,6 +29,8 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 ### News of the week
 07/17/2025
 * [Mathematics of LLMs, Explained in Everyday Language](https://www.youtube.com/watch?v=1WHaFWMMXLI)
+* [Open-Source Kimi K2 1T parameter model by Alibaba-backed Moonshot](https://github.com/MoonshotAI/Kimi-K2?tab=readme-ov-file)
+* [Spatial Intelligence - AI capability to understand, and interpret, the physical world through spatial reasoning](https://www.youtube.com/watch?v=iX3OexSpZ5I)
 
 07/07/2025
 * [Grok 4 release](https://x.com/xai/status/1943158495588815072)
