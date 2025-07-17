@@ -5,6 +5,9 @@ Discussing prompt patterns - a series of useful prompt engineering techniques th
 Try to reverse engineer the prompt to generate the [picture](japanese-picture.png)
 
 #### Resources
+* [Google Whisk to reverse engineering prompt from image](https://labs.google/fx/tools/whisk)
+* [Accidentally Unlocked ChatGPT’s Superpower](https://medium.com/lets-code-future/after-1-000-failed-prompts-i-accidentally-unlocked-chatgpts-superpower-923eb67a3240)
+ * [Alisa Gemini Gem](https://gemini.google.com/gem/b06970268e52)  
 * [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT paper](https://arxiv.org/pdf/2302.11382.pdf)
 * [Prompt Pattern Catalog table](prompt-paper-table.pdf)
 * [OpenAI Prompt Generator](https://platform.openai.com/docs/guides/prompt-generation)
