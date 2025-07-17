@@ -18,3 +18,6 @@ Try to reverse engineer the prompt to generate the [picture](japanese-picture.pn
 * [OpenAI - Enhance your prompts with meta prompting](https://cookbook.openai.com/examples/enhance_your_prompts_with_meta_prompting)
   *   [github page](https://github.com/openai/openai-cookbook/blob/main/examples/Enhance_your_prompts_with_meta_prompting.ipynb) - very good resource to play around with
   *   Has the example using BBC articles
+* Context Engineering
+ * [The rise of "context engineering"](https://blog.langchain.com/the-rise-of-context-engineering/)
+ * [The New Skill in AI is Not Prompting, It's Context Engineering](https://www.philschmid.de/context-engineering)
