@@ -18,6 +18,7 @@
 * [Gradio chatbot w/ HF models](https://colab.research.google.com/drive/1WLiyB2-zGivpjc1O8YIhcpNfj0b1AQVE?usp=sharing)
 * [Chatbot Gradio exercise](https://colab.research.google.com/drive/1bjOOI5sNbP10hclqdyKWCv8_TcxFS7Q7?usp=sharing)
 * [Meta-prompter Gradio app](https://colab.research.google.com/drive/1pnAH2tTCbhPzsMsBo97oU51g8vgGSXLk?usp=sharing)
+* [Voxtral Transcription Demo](https://huggingface.co/spaces/MohamedRashad/Voxtral)
 
 ### Extra stuff
 * [Interacting w/ Gemini](https://colab.research.google.com/drive/1IbQg-TB3_DQ5Nt6QyB29UWjPL9k-pebF?usp=sharing)
