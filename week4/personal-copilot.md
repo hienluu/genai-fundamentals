@@ -12,5 +12,7 @@ Encourage me to: [list the values and behaviors that make you successful in your
 
 I want you to find the balance of: [traits you want in a thought partner and coach that will be both effective and fun to work with]
 
+----------
+What is the single most important thing I should do next?
 
 *** Source: https://www.lennysnewsletter.com/p/build-your-personal-ai-copilot
