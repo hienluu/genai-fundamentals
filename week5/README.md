@@ -26,6 +26,7 @@
 * [Deprecated: Interacting w/ models hosted on Replicate.com ](https://colab.research.google.com/drive/1bWP_807B4ILnFOcNO3zZnT1B8966z_fA?usp=sharing)
 
 ### Gradio
+* [Gradio Agent & MCP Hackathon](https://www.gradio.app/hackathon-winners)
 * [Gradio Quickstart](https://www.gradio.app/guides/quickstart)
 * [Gradio Application Guides](https://www.gradio.app/guides)
 * [Intro. to Gradio from NLP Course](https://huggingface.co/learn/nlp-course/chapter9/1)
