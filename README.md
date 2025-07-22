@@ -29,6 +29,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 ### News of the week
 07/21/2025
 * [Firebase Studio](https://firebase.studio/)
+* [NotebookLM - featured notebooks](https://blog.google/technology/google-labs/notebooklm-featured-notebooks)
 
 07/17/2025
 * [Mathematics of LLMs, Explained in Everyday Language](https://www.youtube.com/watch?v=1WHaFWMMXLI)
