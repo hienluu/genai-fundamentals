@@ -15,7 +15,7 @@
 ### Colab Notebooks to go over
 * [Introduction to colab](https://colab.research.google.com/)
 * [Getting started with Gradio](https://colab.research.google.com/drive/1tUkgGrODMbjk5Yb_7pV0kGNSyEZ_kDb4?usp=sharing)
-* [Gradio chatbot w/ HF models](https://colab.research.google.com/drive/1WLiyB2-zGivpjc1O8YIhcpNfj0b1AQVE?usp=sharing)
+* [Basic Chat Gradio HF models](https://colab.research.google.com/drive/1WLiyB2-zGivpjc1O8YIhcpNfj0b1AQVE?usp=sharing)
 * [Chatbot Gradio exercise](https://colab.research.google.com/drive/1bjOOI5sNbP10hclqdyKWCv8_TcxFS7Q7?usp=sharing)
 * [Meta-prompter Gradio app](https://colab.research.google.com/drive/1pnAH2tTCbhPzsMsBo97oU51g8vgGSXLk?usp=sharing)
 * [Voxtral Transcription Demo](https://huggingface.co/spaces/MohamedRashad/Voxtral)
