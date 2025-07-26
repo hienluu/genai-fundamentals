@@ -23,6 +23,7 @@
 
 ### Extra stuff
 * [Gemini API: Gemini Text-to-speech](https://colab.research.google.com/github/google-gemini/cookbook/blob/main/quickstarts/Get_started_TTS.ipynb)
+* [Chatterboox - Text-to-speech](https://huggingface.co/spaces/ResembleAI/Chatterbox)
 * [Interacting w/ Gemini](https://colab.research.google.com/drive/1IbQg-TB3_DQ5Nt6QyB29UWjPL9k-pebF?usp=sharing)
 * [Gradio w/ Gemini](https://colab.research.google.com/drive/1u87TeLOoyrzlHvH0vPCuD7FaimulNkAf?usp=sharing)
 * [Gradio multimodals example](https://colab.research.google.com/drive/1OmnchldgJfe9Iau4mm7-H_H5kIbz9KF_?usp=sharing)
