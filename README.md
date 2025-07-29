@@ -27,6 +27,10 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 
   
 ### News of the week
+07/28/2025
+* [Google Opal - describe, create, and share your AI mini-apps public beta](https://developers.googleblog.com/en/introducing-opal/)
+  * [Opal](https://opal.withgoogle.com/landing/)
+
 07/21/2025
 * [Firebase Studio](https://firebase.studio/)
 * [NotebookLM - featured notebooks](https://blog.google/technology/google-labs/notebooklm-featured-notebooks)
