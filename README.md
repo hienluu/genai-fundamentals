@@ -31,6 +31,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [Google Opal - describe, create, and share your AI mini-apps public beta](https://developers.googleblog.com/en/introducing-opal/)
   * [Opal](https://opal.withgoogle.com/landing/)
 * [Good Generative AI article from McKinsey](https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-generative-ai)
+* [GPT - Study Mode](https://openai.com/index/chatgpt-study-mode/)
 
 07/21/2025
 * [Firebase Studio](https://firebase.studio/)
