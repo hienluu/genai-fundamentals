@@ -18,7 +18,7 @@
 * [Basic Chat Gradio HF models](https://colab.research.google.com/drive/1WLiyB2-zGivpjc1O8YIhcpNfj0b1AQVE?usp=sharing)
 * [Chatbot Gradio exercise](https://colab.research.google.com/drive/1bjOOI5sNbP10hclqdyKWCv8_TcxFS7Q7?usp=sharing)
 * [Meta-prompter Gradio app](https://colab.research.google.com/drive/1pnAH2tTCbhPzsMsBo97oU51g8vgGSXLk?usp=sharing)
-* [Image to Text Gradio Examample](https://colab.research.google.com/drive/1Ri8uvBEdaASm36jLDN_CUYPXeDQ0Vo5k#scrollTo=PgppKc36R8iz)
+* [Image to Text Gradio Example](https://colab.research.google.com/drive/1Ri8uvBEdaASm36jLDN_CUYPXeDQ0Vo5k#scrollTo=PgppKc36R8iz)
 * [Voxtral Transcription Demo](https://huggingface.co/spaces/MohamedRashad/Voxtral)
 
 ### Extra stuff
