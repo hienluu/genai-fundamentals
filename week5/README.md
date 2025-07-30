@@ -19,9 +19,9 @@
 * [Chatbot Gradio exercise](https://colab.research.google.com/drive/1bjOOI5sNbP10hclqdyKWCv8_TcxFS7Q7?usp=sharing)
 * [Meta-prompter Gradio app](https://colab.research.google.com/drive/1pnAH2tTCbhPzsMsBo97oU51g8vgGSXLk?usp=sharing)
 * [Image to Text Gradio Example](https://colab.research.google.com/drive/1Ri8uvBEdaASm36jLDN_CUYPXeDQ0Vo5k#scrollTo=PgppKc36R8iz)
-* [Voxtral Transcription Demo](https://huggingface.co/spaces/MohamedRashad/Voxtral)
 
 ### Extra stuff
+* [Voxtral Transcription Demo](https://huggingface.co/spaces/MohamedRashad/Voxtral)
 * [Gemini API: Gemini Text-to-speech](https://colab.research.google.com/github/google-gemini/cookbook/blob/main/quickstarts/Get_started_TTS.ipynb)
 * [Chatterboox - Text-to-speech](https://huggingface.co/spaces/ResembleAI/Chatterbox)
 * [Interacting w/ Gemini](https://colab.research.google.com/drive/1IbQg-TB3_DQ5Nt6QyB29UWjPL9k-pebF?usp=sharing)
