@@ -5,6 +5,7 @@ Discussing prompt patterns - a series of useful prompt engineering techniques th
 Try to reverse engineer the prompt to generate the [picture](japanese-picture.png)
 
 #### Resources
+* [The Only ChatGPT Prompt that Matters](https://medium.com/@jordan_gibbs/the-only-chatgpt-prompt-that-matters-f16dd85e43b3)
 * [Google Whisk to reverse engineering prompt from image](https://labs.google/fx/tools/whisk)
 * [Accidentally Unlocked ChatGPT’s Superpower](https://medium.com/lets-code-future/after-1-000-failed-prompts-i-accidentally-unlocked-chatgpts-superpower-923eb67a3240)
  * [Alisa Gemini Gem](https://gemini.google.com/gem/b06970268e52)  
@@ -21,3 +22,4 @@ Try to reverse engineer the prompt to generate the [picture](japanese-picture.pn
 * Context Engineering
  * [The rise of "context engineering"](https://blog.langchain.com/the-rise-of-context-engineering/)
  * [The New Skill in AI is Not Prompting, It's Context Engineering](https://www.philschmid.de/context-engineering)
+
