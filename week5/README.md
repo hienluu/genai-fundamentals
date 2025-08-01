@@ -19,7 +19,7 @@
 * [Chatbot Gradio exercise](https://colab.research.google.com/drive/1bjOOI5sNbP10hclqdyKWCv8_TcxFS7Q7?usp=sharing)
 * [Meta-prompter Gradio app](https://colab.research.google.com/drive/1pnAH2tTCbhPzsMsBo97oU51g8vgGSXLk?usp=sharing)
 * [Image to Text Gradio Example](https://colab.research.google.com/drive/1Ri8uvBEdaASm36jLDN_CUYPXeDQ0Vo5k#scrollTo=PgppKc36R8iz)
-* [Image Text Seech Gradio with Gemini](https://colab.research.google.com/drive/1uqbj-CdMzrjUEEY7t2JwykFkAVRlRnNy#scrollTo=Qw6ttkOtrQ_D)
+* [Image Text Speech Gradio with Gemini](https://colab.research.google.com/drive/1uqbj-CdMzrjUEEY7t2JwykFkAVRlRnNy#scrollTo=Qw6ttkOtrQ_D)
 
 ### Extra stuff
 
