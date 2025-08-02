@@ -27,6 +27,9 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 
   
 ### News of the week
+08/04/2025
+* [Code generation became AI’s first killer app](https://menlovc.com/perspective/2025-mid-year-llm-market-update/)
+
 07/28/2025
 * [Google Opal - describe, create, and share your AI mini-apps public beta](https://developers.googleblog.com/en/introducing-opal/)
   * [Opal](https://opal.withgoogle.com/landing/)
