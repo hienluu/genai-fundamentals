@@ -28,6 +28,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
   
 ### News of the week
 08/04/2025
+* [PromptTessor - Evaluate, Improve, and Optimize Your AI Prompts](https://promptessor.com)
 * [Code generation became AI’s first killer app](https://menlovc.com/perspective/2025-mid-year-llm-market-update/)
 
 07/28/2025
