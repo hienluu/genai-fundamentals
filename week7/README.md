@@ -1,5 +1,18 @@
 
 
+### Courses
+* [Hugging Face AI Agent Course](https://huggingface.co/learn/agents-course/en/unit0/introduction)
+* [PhiloAgents Course](https://github.com/neural-maze/philoagents-course)
+* [Microsoft - AI agents for beginners](https://learn.microsoft.com/en-us/shows/ai-agents-for-beginners/)
+* [AI Agents in LangGraph - DeepLearning.AI](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/)
+* [Multi AI Agent Systems with crewAI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)
+* [Practical Multi AI Agents and Advanced Use Cases with crewAI](https://www.deeplearning.ai/short-courses/practical-multi-ai-agents-and-advanced-use-cases-with-crewai/)
+* [Evaluating AI Agents](https://www.deeplearning.ai/short-courses/evaluating-ai-agents/)
+* [AI Agentic Design Patterns with AutoGen](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/)
+* [Functions, Tools and Agents with LangChain](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/)
+  
+
+
 
 ### Resources
 * [12-Factor Agents - Principles for building reliable LLM applications](https://github.com/humanlayer/12-factor-agents)
@@ -16,7 +29,6 @@
 * [Beyond Fine-tuning](https://www.youtube.com/watch?v=oUrVqexBGBs) ([pdf](https://go.superwise.ai/hubfs/PDF%20assets/Beyond%20Fine-Tuning_%20LLM%20Optimization%20Webinar.pdf))
 * [Building Effective Agents by Claude](https://www.anthropic.com/engineering/building-effective-agents)
   * [Building Effective Agents Cookbook](https://github.com/anthropics/anthropic-cookbook/tree/main/patterns/agents)
-* [Hugging Face AI Agent Course](https://huggingface.co/learn/agents-course/en/unit0/introduction)
 * [Flowise - Build LLM Apps Easily](https://github.com/FlowiseAI/Flowise)
 * Agentic RAG
  * [Agentic RAG: Make Chatting with Docs Smarter](https://www.youtube.com/watch?v=QQAkXHRJcZg&list=PLVEEucA9MYhOu89CX8H3MBZqayTbcCTMr&index=32&t=391s)
