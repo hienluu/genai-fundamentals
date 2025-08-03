@@ -12,9 +12,8 @@
 * [Functions, Tools and Agents with LangChain](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/)
   
 
-
-
 ### Resources
+* [Flowise.AI - open source platform for building AI Agents and LLM workflows.](https://docs.flowiseai.com/)
 * [12-Factor Agents - Principles for building reliable LLM applications](https://github.com/humanlayer/12-factor-agents)
 * [Anthropic - How we built our multi-agent research system](https://www.anthropic.com/engineering/built-multi-agent-research-system)
 * Agent SDKs
