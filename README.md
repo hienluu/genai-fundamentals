@@ -25,6 +25,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [Build a LLM (from scratch)](https://github.com/rasbt/LLMs-from-scratch)
 * [The Next Breakthrough In AI Agents Is Here](https://www.youtube.com/watch?v=JOYSDqJdiro)
 * [Manus AI - autonomous AI agent that could handle any computer-based task](https://manus.im)
+  * Playbook - best templates and set-ups built by Manus’s community 
 
   
 ### News of the week
