@@ -5,3 +5,4 @@
 * [Beyond the Prompt](https://www.youtube.com/@BeyondthePrompt)
 * [Lev Selector - weekly update](https://www.youtube.com/@lev-selector)
 * [Sebastian Raschka](https://substack.com/@rasbt?)
+* [Interconnects - Nathan Lambert](https://substack.com/@natolambert?)
