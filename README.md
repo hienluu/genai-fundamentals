@@ -32,6 +32,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 08/04/2025
 * [AI Influencers](./geanai-influencers.md)
 * [OpenAI - GPT 5](https://www.youtube.com/watch?v=0Uu_VJeVVfo)
+  * GPT-4.1 is a capable generalist. GPT-5 is a specialist in reasoning, coding, and multi-tool orchestration with significantly better reliability and lower hallucination—ideal for building agents and production-grade automations
 * [OpenAI - Introducing gpt-oss](https://openai.com/index/introducing-gpt-oss/)
 * [PromptTessor - Evaluate, Improve, and Optimize Your AI Prompts](https://promptessor.com)
 * [Code generation became AI’s first killer app](https://menlovc.com/perspective/2025-mid-year-llm-market-update/)
