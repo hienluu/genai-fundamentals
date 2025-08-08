@@ -34,6 +34,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [OpenAI - Introducing gpt-oss](https://openai.com/index/introducing-gpt-oss/)
 * [PromptTessor - Evaluate, Improve, and Optimize Your AI Prompts](https://promptessor.com)
 * [Code generation became AI’s first killer app](https://menlovc.com/perspective/2025-mid-year-llm-market-update/)
+* [Berkeley Agentic AI Summit](https://rdi.berkeley.edu/events/agentic-ai-summit)
 
 07/28/2025
 * [Google Opal - describe, create, and share your AI mini-apps public beta](https://developers.googleblog.com/en/introducing-opal/)
