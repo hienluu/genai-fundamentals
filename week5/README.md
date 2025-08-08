@@ -23,6 +23,7 @@
 
 ### Extra stuff
 
+* [Claude Artifact Example - from Simon](https://simonwillison.net/2024/Oct/21/claude-artifacts)
 * [Voxtral Transcription Demo](https://huggingface.co/spaces/MohamedRashad/Voxtral)
 * [Gemini API: Gemini Text-to-speech](https://colab.research.google.com/github/google-gemini/cookbook/blob/main/quickstarts/Get_started_TTS.ipynb)
 * [Chatterboox - Text-to-speech](https://huggingface.co/spaces/ResembleAI/Chatterbox)
