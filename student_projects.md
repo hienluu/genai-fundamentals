@@ -6,4 +6,4 @@
 * [Santa Cruz Landlord](https://opal.withgoogle.com/?flow=drive:/16A-GLrR4IUcoZZBoiPMCcMf8BC2eBDPW&mode=app&shared=true)
 * [AI Travel Planner](https://huggingface.co/spaces/elena-sch/trip-planning-assistant)
 * [Stock PE Trend](https://banffinance.lovable.app/)
-* [Website Genie Builder]()
+* [Website Genie Builder](https://opal.withgoogle.com/?flow=drive:/1cfFni0NiybKgnfEAxHEX9tSXiIg4hNB3&mode=canvas)
