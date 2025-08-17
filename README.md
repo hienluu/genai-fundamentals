@@ -29,6 +29,9 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 
   
 ### News of the week
+08/11/2025
+* [Google Flight Deals](https://blog.google/products/search/google-flights-ai-flight-deals/)
+
 08/04/2025
 * [AI Influencers](./geanai-influencers.md)
 * [OpenAI - GPT 5](https://www.youtube.com/watch?v=0Uu_VJeVVfo)
