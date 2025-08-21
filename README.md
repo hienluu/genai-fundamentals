@@ -31,6 +31,8 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 ### News of the week
 08/11/2025
 * [Google Flight Deals](https://blog.google/products/search/google-flights-ai-flight-deals/)
+* [GPT-5 Prompting Guide](https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide)
+* [Anthropic - Opus 4.1](https://www.anthropic.com/news/claude-opus-4-1)
 
 08/04/2025
 * [AI Influencers](./geanai-influencers.md)
