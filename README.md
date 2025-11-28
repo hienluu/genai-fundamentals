@@ -29,6 +29,12 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 
   
 ### News of the week
+11/24/2025
+* [Claude released Claude Opus 4.5](https://www.anthropic.com/news/claude-opus-4-5)
+* [Google released Gemini 3.0](https://blog.google/products/gemini/gemini-3/)
+* [OpenAI released GPT-5.1](https://openai.com/index/gpt-5-1/)
+  
+
 08/11/2025
 * [Google Flight Deals](https://blog.google/products/search/google-flights-ai-flight-deals/)
 * [GPT-5 Prompting Guide](https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide)
