@@ -22,6 +22,7 @@
 * Have fun with [Chatzaroni](https://huggingface.co/spaces/hienluu/chatzaroni) - a Hugging Face space
 
 #### Resources
+* [Stanford - Verbalized Sample technique](https://github.com/hienluu/genai-fundamentals/blob/main/week3/verbalized-sampling.md)
 * [Anthropic Prompt Library](https://docs.anthropic.com/en/resources/prompt-library/library)
 * [PromptCraft: The Ultimate GPT System Prompt Collection](https://github.com/LouisShark/chatgpt_system_prompt/tree/main)
 * [6 Techniques for Effective Prompt Engineering - Anthropic](https://www-cdn.anthropic.com/62df988c101af71291b06843b63d39bbd600bed8.pdf)
