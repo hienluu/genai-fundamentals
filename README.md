@@ -44,6 +44,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [Google released Gemini 3.0](https://blog.google/products/gemini/gemini-3/)
 * [OpenAI released GPT-5.1](https://openai.com/index/gpt-5-1/)
 * [Introducing Nano Banana Pro](https://blog.google/technology/ai/nano-banana-pro/)
+* [Introducing Google Antigravity, a New Era in AI-Assisted Software Development](https://antigravity.google/blog/introducing-google-antigravity)
   
 
 08/11/2025
