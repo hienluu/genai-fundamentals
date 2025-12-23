@@ -29,6 +29,10 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 
   
 ### News of the week
+12/15/2025
+* [Gemini 3 Flash: frontier intelligence built for speed](https://blog.google/products/gemini/gemini-3-flash/)
+
+  
 12/08/2025
 * [GPT 5.2 Release](https://openai.com/index/introducing-gpt-5-2/)
   * [Good video & prompt](https://www.youtube.com/watch?v=yB3ly_ZRr5o) 
@@ -38,6 +42,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [Claude released Claude Opus 4.5](https://www.anthropic.com/news/claude-opus-4-5)
 * [Google released Gemini 3.0](https://blog.google/products/gemini/gemini-3/)
 * [OpenAI released GPT-5.1](https://openai.com/index/gpt-5-1/)
+* [Introducing Nano Banana Pro](https://blog.google/technology/ai/nano-banana-pro/)
   
 
 08/11/2025
