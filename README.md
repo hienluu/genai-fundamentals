@@ -35,7 +35,8 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
   
 12/08/2025
 * [GPT 5.2 Release](https://openai.com/index/introducing-gpt-5-2/)
-  * [Good video & prompt](https://www.youtube.com/watch?v=yB3ly_ZRr5o) 
+  * [Good video & prompt](https://www.youtube.com/watch?v=yB3ly_ZRr5o)
+* [DeepSeek-V3.2 Release](https://api-docs.deepseek.com/news/news251201)
 
 
 11/24/2025
