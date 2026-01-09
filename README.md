@@ -29,6 +29,9 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 
   
 ### News of the week
+12/29/25
+* [40 of our most helpful AI tips from 2025](https://blog.google/innovation-and-ai/products/ai-tips-2025/)
+
 12/22/2025
 * [60 of Google's biggest AI announcements in 2025](https://blog.google/technology/ai/google-ai-news-recap-2025/)
 
