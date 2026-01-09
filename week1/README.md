@@ -1,6 +1,11 @@
 # Week1 - Introduction to Generative AI
 
-### Below is a list of resources for the various Generative AI tools
+## Resources for the various Generative AI tools
+
+### Ideas for interacting with AI
+* Build an interactive loan calculator
+* Build a birthday card & wish generator
+* Build a new year resolution idea generator or tracker
 
 ### Coversational Based AI Tools
 | Name        | Company    | URL                           |
