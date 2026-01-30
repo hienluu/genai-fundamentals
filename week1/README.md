@@ -7,6 +7,9 @@
 * Build a birthday card & wish generator
 * Build a new year resolution idea generator or tracker
 
+### Google colab
+* [Google Colab w/ AI](https://colab.research.google.com/drive/1E1_5z9N-iJGSqJtp_xCyV1THq4yQKyvE)
+
 ### Coversational Based AI Tools
 | Name        | Company    | URL                           |
 | ----------- | -----------| ----------------------------- |
