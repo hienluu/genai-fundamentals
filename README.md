@@ -31,6 +31,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 ### News of the week
 02/02/25
 * [OpenClaw (formerly Clawdbot: personal AI](https://openclaw.ai/)
+* [Molbot - AI powered social media bot](https://moltbookai.net/)
 
 
 12/29/25
