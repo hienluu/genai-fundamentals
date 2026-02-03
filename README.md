@@ -29,6 +29,10 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 
   
 ### News of the week
+02/02/25
+* [OpenClaw (formerly Clawdbot: personal AI](https://openclaw.ai/)
+
+
 12/29/25
 * [40 of our most helpful AI tips from 2025](https://blog.google/innovation-and-ai/products/ai-tips-2025/)
 
