@@ -32,6 +32,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 02/02/25
 * [OpenClaw (formerly Clawdbot: personal AI](https://openclaw.ai/)
 * [Molbot - AI powered social media bot](https://moltbookai.net/)
+* [2026 Agentic Coding Trends Report](https://resources.anthropic.com/hubfs/2026%20Agentic%20Coding%20Trends%20Report.pdf?hsLang=en)
 
 
 12/29/25
