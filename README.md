@@ -36,6 +36,8 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [Claude Code Beyond Basics: The Power of Skills & MCP](https://www.whytryai.com/p/claude-code-ide-skills-mcp?open=false#%C2%A72-using-claude-code-with-claude-skills)
 * [Opus 4.6](https://www.anthropic.com/news/claude-opus-4-6)
   * Better coding skills, 1M token context window in beta
+* [Introducing GPT-5.3-Codex](https://openai.com/index/introducing-gpt-5-3-codex/)
+  * Frontier coding performance, reasoning and professional knowledge capabilities, 25% faster
 
 
 12/29/25
