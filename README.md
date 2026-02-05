@@ -33,6 +33,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [OpenClaw (formerly Clawdbot: personal AI](https://openclaw.ai/)
 * [Molbot - AI powered social media bot](https://moltbookai.net/)
 * [2026 Agentic Coding Trends Report](https://resources.anthropic.com/hubfs/2026%20Agentic%20Coding%20Trends%20Report.pdf?hsLang=en)
+* [Claude Code Beyond Basics: The Power of Skills & MCP](https://www.whytryai.com/p/claude-code-ide-skills-mcp?open=false#%C2%A72-using-claude-code-with-claude-skills)
 
 
 12/29/25
