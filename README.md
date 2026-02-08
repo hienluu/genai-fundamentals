@@ -18,7 +18,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 
 ### Chatzaroni Hugging Face App 
 * [Chatzaroni](https://huggingface.co/spaces/hienluu/chatzaroni)
- * 4F framework: Delegation, Description, Discernment, Diligence
+  * 4F framework: Delegation, Description, Discernment, Diligence
 
 
 ### Books
