@@ -10,6 +10,8 @@
 ### Google colab
 * [Google Colab w/ AI](https://colab.research.google.com/drive/1E1_5z9N-iJGSqJtp_xCyV1THq4yQKyvE)
 
+<img src="./chatgpt-gemini-claude-grok.gif" />
+
 ### Coversational Based AI Tools
 | Name        | Company    | URL                           |
 | ----------- | -----------| ----------------------------- |
