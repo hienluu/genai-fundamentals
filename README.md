@@ -33,6 +33,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 02/16/26
 * [Chinese Kung Fu Robots](https://www.youtube.com/watch?v=eWUsUMLOzSw)
 * [AI Tom Cruise fights Brad Pitt](https://www.youtube.com/watch?v=FunqTjCZE8o)
+  * [NY Time - blog](https://www.nytimes.com/2026/02/16/movies/tom-cruise-brad-pitt-artificial-intelligence-seedance.html)
 
 02/09/26
 * [AI Fluency: Framework & Foundations](https://anthropic.skilljar.com/ai-fluency-framework-foundations)
