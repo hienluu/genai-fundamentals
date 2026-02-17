@@ -30,7 +30,11 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 
   
 ### News of the week
-02/09/225
+02/16/26
+* [Chinese Kung Fu Robots](https://www.youtube.com/watch?v=eWUsUMLOzSw)
+* [AI Tom Cruise fights Brad Pitt](https://www.youtube.com/watch?v=FunqTjCZE8o)
+
+02/09/26
 * [AI Fluency: Framework & Foundations](https://anthropic.skilljar.com/ai-fluency-framework-foundations)
 
 02/02/25
