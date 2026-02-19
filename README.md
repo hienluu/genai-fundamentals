@@ -31,6 +31,9 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
   
 ### News of the week
 02/16/26
+* [OpenClaw - a personal AI assistant](https://github.com/openclaw/openclaw)
+  * building a personal AI assistant that can act across messaging apps and workflows
+  * founder joined OpenAI
 * [Chinese Kung Fu Robots](https://www.youtube.com/watch?v=eWUsUMLOzSw)
 * [AI Tom Cruise fights Brad Pitt](https://www.youtube.com/watch?v=FunqTjCZE8o)
   * [NY Time - blog](https://www.nytimes.com/2026/02/16/movies/tom-cruise-brad-pitt-artificial-intelligence-seedance.html)
