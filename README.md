@@ -39,6 +39,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
   * [NY Time - blog](https://www.nytimes.com/2026/02/16/movies/tom-cruise-brad-pitt-artificial-intelligence-seedance.html)
   * [X thread](https://x.com/RuairiRobinson/status/2021394940757209134)
 * [Ultimate Claude Code FULL course!](https://www.sabrina.dev/p/claude-code-full-course-for-beginners)
+* [Prompt Repetition Improves Non-Reasoning LLMs](https://arxiv.org/pdf/2512.14982)
 
 02/09/26
 * [AI Fluency: Framework & Foundations](https://anthropic.skilljar.com/ai-fluency-framework-foundations)
