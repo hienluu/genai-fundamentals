@@ -42,7 +42,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [Prompt Repetition Improves Non-Reasoning LLMs](https://arxiv.org/pdf/2512.14982)
 
 02/09/26
-* [AI Fluency: Framework & Foundations](https://anthropic.skilljar.com/ai-fluency-framework-foundations)
+* [AI Fluency: Framework & Foundations](https://anthropic.skilljar.com/)
 
 02/02/25
 * [OpenClaw (formerly Clawdbot: personal AI](https://openclaw.ai/)
