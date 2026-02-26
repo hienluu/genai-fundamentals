@@ -30,6 +30,11 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 
   
 ### News of the week
+02/23/26
+* [Build dynamic agentic workflows in Opal](https://blog.google/innovation-and-ai/models-and-research/google-labs/opal-agent/)
+* [New ways to create and refine content in Flow](https://blog.google/innovation-and-ai/models-and-research/google-labs/flow-updates-february-2026/)
+
+
 02/16/26
 * [OpenClaw - a personal AI assistant](https://github.com/openclaw/openclaw)
   * building a personal AI assistant that can act across messaging apps and workflows
