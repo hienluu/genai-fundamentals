@@ -34,6 +34,8 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [Build dynamic agentic workflows in Opal](https://blog.google/innovation-and-ai/models-and-research/google-labs/opal-agent/)
 * [New ways to create and refine content in Flow](https://blog.google/innovation-and-ai/models-and-research/google-labs/flow-updates-february-2026/)
 * [Mel Robbins podcast - How to Know Your Life’s Purpose in 1 Hour](https://www.youtube.com/watch?v=Y29PQz239J8)
+* [Jobs of the Future: How to Prepare for the Craziest Transformation of Our Century](https://www.linkedin.com/pulse/jobs-future-how-prepare-craziest-transformation-our-youseff-phd-hlcnc/)
+* [Nano Banana 2: Combining Pro capabilities with lightning-fast speed](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/)
 
 
 02/16/26
