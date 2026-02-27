@@ -2,7 +2,7 @@
 
 #### Preparation:
 * Make sure to have a Google account
-* [Get Google API Key from Google AI Studio](https://aistudio.google.com/app/apikey)
+   * [Get Google API Key from Google AI Studio](https://aistudio.google.com/app/apikey)
 * [Create an account on Hugging Face](https://huggingface.co/join)
     * [Hugging Face access token](https://huggingface.co/settings/tokens)
 * Create an account Groq
