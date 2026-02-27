@@ -12,6 +12,8 @@
 #### Step by step instructions for creating HF access token and save it as a secret in Colab
 * See this [resource](https://github.com/hienluu/genai-fundamentals/blob/main/week5/accesskey.md)
 
+### Google Opal
+* [Opal](https://opal.google/)
 ### Colab Notebooks to go over
 * [Introduction to colab](https://colab.research.google.com/)
 * [Getting started with Gradio](https://colab.research.google.com/drive/1tUkgGrODMbjk5Yb_7pV0kGNSyEZ_kDb4?usp=sharing)
