@@ -32,6 +32,10 @@ so create one if you don't already have one
   * Enbable "Notebook access" by clicking on the empty area next to the "x" mark (left most field of the secret)
 * Now close the the Secrets page by clicking on the "X" at the top right area of the "Secrets" area.
 
+#### Securely store the Google & Groq API Keys on Google Colab
+* For Groq, use GROQ_API_KEY as the name of the secret
+* For Google, use GEMINI_API_KEY as the name of the secret
+
 #### Accessing the secret inside a Colab
 * To access a secret inside colab via Python
 ```python
