@@ -30,6 +30,9 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 
   
 ### News of the week
+03/02/26
+* [Gemini Live Agent Challenge](https://geminiliveagentchallenge.devpost.com/)
+
 02/23/26
 * [Build dynamic agentic workflows in Opal](https://blog.google/innovation-and-ai/models-and-research/google-labs/opal-agent/)
 * [New ways to create and refine content in Flow](https://blog.google/innovation-and-ai/models-and-research/google-labs/flow-updates-february-2026/)
