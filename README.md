@@ -31,8 +31,10 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
   
 ### News of the week
 03/02/26
+* [Gemini 3.1 Flash-Lite: Built for intelligence at scale](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite)
 * [Gemini Live Agent Challenge](https://geminiliveagentchallenge.devpost.com/)
 * [CS146S: The Modern Software Developer](https://themodernsoftware.dev/)
+
 
 02/23/26
 * [Build dynamic agentic workflows in Opal](https://blog.google/innovation-and-ai/models-and-research/google-labs/opal-agent/)
