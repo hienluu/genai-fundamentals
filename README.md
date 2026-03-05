@@ -35,6 +35,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [GPT‑5.3 Instant: Smoother, more useful everyday conversations](https://openai.com/index/gpt-5-3-instant/)
 * [Gemini Live Agent Challenge](https://geminiliveagentchallenge.devpost.com/)
 * [CS146S: The Modern Software Developer](https://themodernsoftware.dev/)
+* [Gen AI Notebook Tutorials](https://drive.google.com/file/d/1EKs-75fPNazJ3vyLmd7YNP6QrP1hs1Lu/view)
 
 
 02/23/26
