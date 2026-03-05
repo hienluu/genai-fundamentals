@@ -40,6 +40,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 
 02/23/26
 * [Build dynamic agentic workflows in Opal](https://blog.google/innovation-and-ai/models-and-research/google-labs/opal-agent/)
+  * Key features: memory capabilities, dynamic routing, and interactive chat
 * [New ways to create and refine content in Flow](https://blog.google/innovation-and-ai/models-and-research/google-labs/flow-updates-february-2026/)
   * https://labs.google/fx/tools/flow
 * [Mel Robbins podcast - How to Know Your Life’s Purpose in 1 Hour](https://www.youtube.com/watch?v=Y29PQz239J8)
