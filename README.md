@@ -30,6 +30,9 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 
   
 ### News of the week
+03/09/26
+* [Andrej Karpathy - autoresearch](https://github.com/karpathy/autoresearch)
+
 03/02/26
 * [Gemini 3.1 Flash-Lite: Built for intelligence at scale](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite)
 * [Introducing GPT‑5.4](https://openai.com/index/introducing-gpt-5-4/)
