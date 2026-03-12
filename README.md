@@ -31,6 +31,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
   
 ### News of the week
 03/09/26
+* [New ways to learn math and science in ChatGPT](https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt/)
 * [Andrej Karpathy - autoresearch](https://github.com/karpathy/autoresearch)
 * [5 Prompts to Learning Anything](https://www.linkedin.com/posts/ruben-hassid_most-people-will-never-learn-a-new-skill-activity-7437376796620144641-BDVQ)
   * [The prompts](week3/prompts-for-learning-anything.md)
