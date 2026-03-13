@@ -36,6 +36,7 @@ Throughout the course, you'll gain a solid understanding of the underlying techn
 * [Andrej Karpathy - autoresearch](https://github.com/karpathy/autoresearch)
 * [5 Prompts to Learning Anything](https://www.linkedin.com/posts/ruben-hassid_most-people-will-never-learn-a-new-skill-activity-7437376796620144641-BDVQ)
   * [The prompts](week3/prompts-for-learning-anything.md)
+* [claude code clone repo](https://github.com/hienluu/claude-code-clone)
 
 03/02/26
 * [Gemini 3.1 Flash-Lite: Built for intelligence at scale](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite)
